@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.507d943b.css",
+    "main.js": "/static/js/main.e9396a09.js",
+    "static/js/787.0e1f2149.chunk.js": "/static/js/787.0e1f2149.chunk.js",
+    "static/media/mining_oss_skills.png": "/static/media/mining_oss_skills.23df5ef8b08970bede39.png",
+    "static/media/understanding_skills.png": "/static/media/understanding_skills.2dc52d957f746a640400.png",
+    "static/media/whale_watching.png": "/static/media/whale_watching.1207ecf6070cb4b51619.png",
+    "static/media/colte_demo.png": "/static/media/colte_demo.2381881c5634455cabde.png",
+    "static/media/visual_comet.png": "/static/media/visual_comet.3530023682ec12264faf.png",
+    "static/media/howtoo.png": "/static/media/howtoo.662120e694f12887c81a.png",
+    "static/media/jenny.jpeg": "/static/media/jenny.a39d013da5bd5b929613.jpeg",
+    "static/media/colte.png": "/static/media/colte.fd67fc1d4617398eae84.png",
+    "static/media/understanding_developers.png": "/static/media/understanding_developers.45f59dad63b90d2f9cde.png",
+    "static/media/cv.pdf": "/static/media/cv.4b11dde2b2c1bbb4f11e.pdf",
+    "static/media/interpreting_hate.png": "/static/media/interpreting_hate.7ede42487e6a98cce42a.png",
+    "static/media/strategy_authoring.png": "/static/media/strategy_authoring.f5301074f71054dba5da.png",
+    "static/media/delphi.png": "/static/media/delphi.d8ab86a0f174c7ac9d11.png",
+    "static/media/comet.png": "/static/media/comet.e0bd4c60f2089f33e715.png",
+    "static/media/crowdsourcing_annotations.png": "/static/media/crowdsourcing_annotations.028522290a632990169d.png",
+    "index.html": "/index.html",
+    "main.507d943b.css.map": "/static/css/main.507d943b.css.map",
+    "main.e9396a09.js.map": "/static/js/main.e9396a09.js.map",
+    "787.0e1f2149.chunk.js.map": "/static/js/787.0e1f2149.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.507d943b.css",
+    "static/js/main.e9396a09.js"
+  ]
+}
