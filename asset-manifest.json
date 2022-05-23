@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.507d943b.css",
-    "main.js": "/static/js/main.b635c2f6.js",
+    "main.js": "/static/js/main.cf46b110.js",
     "static/js/787.0e1f2149.chunk.js": "/static/js/787.0e1f2149.chunk.js",
     "static/media/mining_oss_skills.png": "/static/media/mining_oss_skills.23df5ef8b08970bede39.png",
     "static/media/understanding_skills.png": "/static/media/understanding_skills.2dc52d957f746a640400.png",
@@ -21,11 +21,11 @@
     "static/media/crowdsourcing_annotations.png": "/static/media/crowdsourcing_annotations.028522290a632990169d.png",
     "index.html": "/index.html",
     "main.507d943b.css.map": "/static/css/main.507d943b.css.map",
-    "main.b635c2f6.js.map": "/static/js/main.b635c2f6.js.map",
+    "main.cf46b110.js.map": "/static/js/main.cf46b110.js.map",
     "787.0e1f2149.chunk.js.map": "/static/js/787.0e1f2149.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.507d943b.css",
-    "static/js/main.b635c2f6.js"
+    "static/js/main.cf46b110.js"
   ]
 }
