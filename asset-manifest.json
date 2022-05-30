@@ -1,31 +1,31 @@
 {
   "files": {
     "main.css": "/static/css/main.507d943b.css",
-    "main.js": "/static/js/main.cf46b110.js",
+    "main.js": "/static/js/main.3c3b183d.js",
     "static/js/787.0e1f2149.chunk.js": "/static/js/787.0e1f2149.chunk.js",
-    "static/media/mining_oss_skills.png": "/static/media/mining_oss_skills.23df5ef8b08970bede39.png",
-    "static/media/understanding_skills.png": "/static/media/understanding_skills.2dc52d957f746a640400.png",
-    "static/media/whale_watching.png": "/static/media/whale_watching.1207ecf6070cb4b51619.png",
-    "static/media/colte_demo.png": "/static/media/colte_demo.2381881c5634455cabde.png",
-    "static/media/visual_comet.png": "/static/media/visual_comet.3530023682ec12264faf.png",
-    "static/media/howtoo.png": "/static/media/howtoo.662120e694f12887c81a.png",
-    "static/media/jenny.jpeg": "/static/media/jenny.a39d013da5bd5b929613.jpeg",
     "static/media/mei.jpg": "/static/media/mei.99e83a3d4d5ec4462c90.jpg",
-    "static/media/colte.png": "/static/media/colte.fd67fc1d4617398eae84.png",
-    "static/media/understanding_developers.png": "/static/media/understanding_developers.45f59dad63b90d2f9cde.png",
+    "static/media/colte.png": "/static/media/colte.daede05777c1612bbdc4.png",
+    "static/media/colte_demo.png": "/static/media/colte_demo.c67a286c807176f9b119.png",
+    "static/media/strategy_authoring.png": "/static/media/strategy_authoring.a6e338148053f7433b65.png",
+    "static/media/visual_comet.png": "/static/media/visual_comet.b9d1400736263669851e.png",
     "static/media/cv.pdf": "/static/media/cv.4b11dde2b2c1bbb4f11e.pdf",
-    "static/media/interpreting_hate.png": "/static/media/interpreting_hate.7ede42487e6a98cce42a.png",
-    "static/media/strategy_authoring.png": "/static/media/strategy_authoring.f5301074f71054dba5da.png",
-    "static/media/delphi.png": "/static/media/delphi.d8ab86a0f174c7ac9d11.png",
-    "static/media/comet.png": "/static/media/comet.e0bd4c60f2089f33e715.png",
+    "static/media/mining_oss_skills.png": "/static/media/mining_oss_skills.e75ba82d80689e9352d4.png",
+    "static/media/howtoo.png": "/static/media/howtoo.d5f1a5848cca421fae24.png",
+    "static/media/whale_watching.png": "/static/media/whale_watching.703094fe0c8643564dc7.png",
+    "static/media/understanding_skills.png": "/static/media/understanding_skills.1ebf709636eaf9ee2e93.png",
+    "static/media/understanding_developers.png": "/static/media/understanding_developers.3669f6aaf38b6d7dc3ae.png",
+    "static/media/delphi.png": "/static/media/delphi.1bddde73133a1b1b92e4.png",
+    "static/media/interpreting_hate.png": "/static/media/interpreting_hate.c1876a1456ed446726e6.png",
+    "static/media/comet.png": "/static/media/comet.153ad94de4cf5ecd733c.png",
     "static/media/crowdsourcing_annotations.png": "/static/media/crowdsourcing_annotations.028522290a632990169d.png",
+    "static/media/jenny.jpeg": "/static/media/jenny.4665b5d9e904695129a9.jpeg",
     "index.html": "/index.html",
     "main.507d943b.css.map": "/static/css/main.507d943b.css.map",
-    "main.cf46b110.js.map": "/static/js/main.cf46b110.js.map",
+    "main.3c3b183d.js.map": "/static/js/main.3c3b183d.js.map",
     "787.0e1f2149.chunk.js.map": "/static/js/787.0e1f2149.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.507d943b.css",
-    "static/js/main.cf46b110.js"
+    "static/js/main.3c3b183d.js"
   ]
 }
