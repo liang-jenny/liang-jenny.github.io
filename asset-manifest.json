@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.507d943b.css",
-    "main.js": "/static/js/main.36903122.js",
+    "main.js": "/static/js/main.29ac4f5d.js",
     "static/js/787.0e1f2149.chunk.js": "/static/js/787.0e1f2149.chunk.js",
-    "static/media/cv.pdf": "/static/media/cv.4bb725c91d897e63f41c.pdf",
+    "static/media/cv.pdf": "/static/media/cv.05d67770dd085d20a891.pdf",
     "static/media/mei.jpg": "/static/media/mei.99e83a3d4d5ec4462c90.jpg",
     "static/media/colte.png": "/static/media/colte.daede05777c1612bbdc4.png",
     "static/media/colte_demo.png": "/static/media/colte_demo.c67a286c807176f9b119.png",
@@ -15,17 +15,19 @@
     "static/media/understanding_skills.png": "/static/media/understanding_skills.1ebf709636eaf9ee2e93.png",
     "static/media/understanding_developers.png": "/static/media/understanding_developers.3669f6aaf38b6d7dc3ae.png",
     "static/media/delphi.png": "/static/media/delphi.1bddde73133a1b1b92e4.png",
+    "static/media/evaluating_positionality.png": "/static/media/evaluating_positionality.f6ea6eef4d77a2ee432f.png",
+    "static/media/moral_agent_perceptions.png": "/static/media/moral_agent_perceptions.899d2876b8679e960c37.png",
     "static/media/interpreting_hate.png": "/static/media/interpreting_hate.c1876a1456ed446726e6.png",
     "static/media/comet.png": "/static/media/comet.153ad94de4cf5ecd733c.png",
     "static/media/crowdsourcing_annotations.png": "/static/media/crowdsourcing_annotations.028522290a632990169d.png",
     "static/media/jenny.jpeg": "/static/media/jenny.4665b5d9e904695129a9.jpeg",
     "index.html": "/index.html",
     "main.507d943b.css.map": "/static/css/main.507d943b.css.map",
-    "main.36903122.js.map": "/static/js/main.36903122.js.map",
+    "main.29ac4f5d.js.map": "/static/js/main.29ac4f5d.js.map",
     "787.0e1f2149.chunk.js.map": "/static/js/787.0e1f2149.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.507d943b.css",
-    "static/js/main.36903122.js"
+    "static/js/main.29ac4f5d.js"
   ]
 }
