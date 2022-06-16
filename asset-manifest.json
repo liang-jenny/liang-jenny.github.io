@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.507d943b.css",
-    "main.js": "/static/js/main.adbef723.js",
+    "main.js": "/static/js/main.4768492a.js",
     "static/js/787.0e1f2149.chunk.js": "/static/js/787.0e1f2149.chunk.js",
-    "static/media/cv.pdf": "/static/media/cv.094526d68986169bfdd9.pdf",
     "static/media/mei.jpg": "/static/media/mei.99e83a3d4d5ec4462c90.jpg",
     "static/media/colte.png": "/static/media/colte.daede05777c1612bbdc4.png",
     "static/media/colte_demo.png": "/static/media/colte_demo.c67a286c807176f9b119.png",
@@ -12,6 +11,7 @@
     "static/media/mining_oss_skills.png": "/static/media/mining_oss_skills.e75ba82d80689e9352d4.png",
     "static/media/howtoo.png": "/static/media/howtoo.d5f1a5848cca421fae24.png",
     "static/media/whale_watching.png": "/static/media/whale_watching.703094fe0c8643564dc7.png",
+    "static/media/cv.pdf": "/static/media/cv.096b820a6f1f6430602e.pdf",
     "static/media/understanding_skills.png": "/static/media/understanding_skills.1ebf709636eaf9ee2e93.png",
     "static/media/understanding_developers.png": "/static/media/understanding_developers.3669f6aaf38b6d7dc3ae.png",
     "static/media/delphi.png": "/static/media/delphi.1bddde73133a1b1b92e4.png",
@@ -23,11 +23,11 @@
     "static/media/jenny.jpeg": "/static/media/jenny.4665b5d9e904695129a9.jpeg",
     "index.html": "/index.html",
     "main.507d943b.css.map": "/static/css/main.507d943b.css.map",
-    "main.adbef723.js.map": "/static/js/main.adbef723.js.map",
+    "main.4768492a.js.map": "/static/js/main.4768492a.js.map",
     "787.0e1f2149.chunk.js.map": "/static/js/787.0e1f2149.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.507d943b.css",
-    "static/js/main.adbef723.js"
+    "static/js/main.4768492a.js"
   ]
 }
