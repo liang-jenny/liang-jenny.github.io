@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.507d943b.css",
-    "main.js": "/static/js/main.f1becc8d.js",
+    "main.js": "/static/js/main.193cde38.js",
     "static/js/787.0e1f2149.chunk.js": "/static/js/787.0e1f2149.chunk.js",
     "static/media/understanding_skills.png": "/static/media/understanding_skills.20a9835de8ea01a3eb5b.png",
     "static/media/understanding_developers.png": "/static/media/understanding_developers.986af04d57e5864b98c4.png",
@@ -15,18 +15,18 @@
     "static/media/mining_oss_skills.png": "/static/media/mining_oss_skills.e75ba82d80689e9352d4.png",
     "static/media/howtoo.png": "/static/media/howtoo.d5f1a5848cca421fae24.png",
     "static/media/whale_watching.png": "/static/media/whale_watching.703094fe0c8643564dc7.png",
-    "static/media/cv.pdf": "/static/media/cv.960dd868da8e5fec430b.pdf",
+    "static/media/cv.pdf": "/static/media/cv.4e3096a9af01d9def4c2.pdf",
     "static/media/delphi.png": "/static/media/delphi.1bddde73133a1b1b92e4.png",
     "static/media/interpreting_hate.png": "/static/media/interpreting_hate.c1876a1456ed446726e6.png",
     "static/media/comet.png": "/static/media/comet.153ad94de4cf5ecd733c.png",
     "static/media/jenny.jpeg": "/static/media/jenny.4665b5d9e904695129a9.jpeg",
     "index.html": "/index.html",
     "main.507d943b.css.map": "/static/css/main.507d943b.css.map",
-    "main.f1becc8d.js.map": "/static/js/main.f1becc8d.js.map",
+    "main.193cde38.js.map": "/static/js/main.193cde38.js.map",
     "787.0e1f2149.chunk.js.map": "/static/js/787.0e1f2149.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.507d943b.css",
-    "static/js/main.f1becc8d.js"
+    "static/js/main.193cde38.js"
   ]
 }
