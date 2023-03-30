@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.507d943b.css",
-    "main.js": "/static/js/main.c922706d.js",
+    "main.js": "/static/js/main.d3d3fbc3.js",
     "static/js/787.0e1f2149.chunk.js": "/static/js/787.0e1f2149.chunk.js",
     "static/media/understanding_skills.png": "/static/media/understanding_skills.20a9835de8ea01a3eb5b.png",
     "static/media/understanding_developers.png": "/static/media/understanding_developers.986af04d57e5864b98c4.png",
     "static/media/codegen_usability.png": "/static/media/codegen_usability.e6db01b6edd5a796dd50.png",
     "static/media/evaluating_positionality.png": "/static/media/evaluating_positionality.37645dc39a8be129434f.png",
     "static/media/mei.jpg": "/static/media/mei.99e83a3d4d5ec4462c90.jpg",
+    "static/media/code_gen_usability.png": "/static/media/code_gen_usability.3512a0d31ebfb8755e03.png",
     "static/media/colte.png": "/static/media/colte.daede05777c1612bbdc4.png",
     "static/media/colte_demo.png": "/static/media/colte_demo.c67a286c807176f9b119.png",
     "static/media/strategy_authoring.png": "/static/media/strategy_authoring.a6e338148053f7433b65.png",
@@ -15,18 +16,18 @@
     "static/media/mining_oss_skills.png": "/static/media/mining_oss_skills.e75ba82d80689e9352d4.png",
     "static/media/howtoo.png": "/static/media/howtoo.d5f1a5848cca421fae24.png",
     "static/media/whale_watching.png": "/static/media/whale_watching.703094fe0c8643564dc7.png",
-    "static/media/cv.pdf": "/static/media/cv.a3a4ef2d41f2477b70e3.pdf",
+    "static/media/cv.pdf": "/static/media/cv.772760a0e6984648fea4.pdf",
     "static/media/delphi.png": "/static/media/delphi.1bddde73133a1b1b92e4.png",
     "static/media/interpreting_hate.png": "/static/media/interpreting_hate.c1876a1456ed446726e6.png",
     "static/media/comet.png": "/static/media/comet.153ad94de4cf5ecd733c.png",
     "static/media/jenny.jpeg": "/static/media/jenny.4665b5d9e904695129a9.jpeg",
     "index.html": "/index.html",
     "main.507d943b.css.map": "/static/css/main.507d943b.css.map",
-    "main.c922706d.js.map": "/static/js/main.c922706d.js.map",
+    "main.d3d3fbc3.js.map": "/static/js/main.d3d3fbc3.js.map",
     "787.0e1f2149.chunk.js.map": "/static/js/787.0e1f2149.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.507d943b.css",
-    "static/js/main.c922706d.js"
+    "static/js/main.d3d3fbc3.js"
   ]
 }
