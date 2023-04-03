@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.507d943b.css",
-    "main.js": "/static/js/main.fc1fc2c0.js",
+    "main.js": "/static/js/main.82c6adbb.js",
     "static/js/787.0e1f2149.chunk.js": "/static/js/787.0e1f2149.chunk.js",
     "static/media/understanding_skills.png": "/static/media/understanding_skills.20a9835de8ea01a3eb5b.png",
     "static/media/understanding_developers.png": "/static/media/understanding_developers.986af04d57e5864b98c4.png",
@@ -23,11 +23,11 @@
     "static/media/jenny.jpeg": "/static/media/jenny.4665b5d9e904695129a9.jpeg",
     "index.html": "/index.html",
     "main.507d943b.css.map": "/static/css/main.507d943b.css.map",
-    "main.fc1fc2c0.js.map": "/static/js/main.fc1fc2c0.js.map",
+    "main.82c6adbb.js.map": "/static/js/main.82c6adbb.js.map",
     "787.0e1f2149.chunk.js.map": "/static/js/787.0e1f2149.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.507d943b.css",
-    "static/js/main.fc1fc2c0.js"
+    "static/js/main.82c6adbb.js"
   ]
 }
