@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.507d943b.css",
-    "main.js": "/static/js/main.d5820817.js",
+    "main.js": "/static/js/main.10987e90.js",
     "static/js/787.0e1f2149.chunk.js": "/static/js/787.0e1f2149.chunk.js",
     "static/media/understanding_skills.png": "/static/media/understanding_skills.20a9835de8ea01a3eb5b.png",
     "static/media/nlpositionality.pdf": "/static/media/nlpositionality.13916f06200b43759e88.pdf",
@@ -9,7 +9,7 @@
     "static/media/understanding_developers.png": "/static/media/understanding_developers.986af04d57e5864b98c4.png",
     "static/media/nlpositionality.png": "/static/media/nlpositionality.37645dc39a8be129434f.png",
     "static/media/mei.jpg": "/static/media/mei.99e83a3d4d5ec4462c90.jpg",
-    "static/media/cv.pdf": "/static/media/cv.2c11899d91e21a1ba5cd.pdf",
+    "static/media/cv.pdf": "/static/media/cv.273f40af7aee730032e1.pdf",
     "static/media/llm_replication.png": "/static/media/llm_replication.e0bb05e5ae79e53e13a1.png",
     "static/media/mining_oss_skills.pdf": "/static/media/mining_oss_skills.4785e553895765b96fda.pdf",
     "static/media/code_gen_usability.png": "/static/media/code_gen_usability.3512a0d31ebfb8755e03.png",
@@ -28,11 +28,11 @@
     "static/media/comet.png": "/static/media/comet.153ad94de4cf5ecd733c.png",
     "index.html": "/index.html",
     "main.507d943b.css.map": "/static/css/main.507d943b.css.map",
-    "main.d5820817.js.map": "/static/js/main.d5820817.js.map",
+    "main.10987e90.js.map": "/static/js/main.10987e90.js.map",
     "787.0e1f2149.chunk.js.map": "/static/js/787.0e1f2149.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.507d943b.css",
-    "static/js/main.d5820817.js"
+    "static/js/main.10987e90.js"
   ]
 }
