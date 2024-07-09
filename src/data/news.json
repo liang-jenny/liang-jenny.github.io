@@ -1,0 +1,18 @@
+[
+    {
+        "date": "Apr 2024",
+        "description": "Our paper, \"Can GPT-4 Replicate Empirical Software Engineering Research?\" was accepted to ACM ESEC/FSE 2024. See you in Porto de Galinhas, Brazil! 🇧🇷"
+    },
+    {
+        "date": "Mar 2024",
+        "description": "Excited to return to Microsoft Research this summer to work on the PROSE Team with Gustavo Soares. 🤗 Hello, Seattle!"
+    },
+    {
+        "date": "Jul 2023",
+        "description": "Our paper, \"NLPositionality: Measuring Positionality and Design Biases in Datasets and Models in NLP\", won an Outstanding Paper Award at ACL 2023. 🏆"
+    },
+    {
+        "date": "Feb 2023",
+        "description": "Our paper, \"A Qualitative Study on the Implementation Design Decisions of Developers\", won the ACM SIGSOFT Distinguished Paper Award at ICSE 2023. 🏆"
+    }
+]

@@ -1,0 +1,250 @@
+{
+    "cb2": {
+        "name": "Carmen Badea",
+        "url": "https://www.microsoft.com/en-us/research/people/cabadea/"
+    },
+    "cb3": {
+        "name": "Christian Bird",
+        "url": "https://www.cabird.com/"
+    },
+    "rd": {
+        "name": "Robert DeLine",
+        "url": "https://www.microsoft.com/en-us/research/people/rdeline/"
+    },
+    "nf": {
+        "name": "Nicole Forsgren",
+        "url": "https://nicolefv.com/"
+    },
+    "tw": {
+        "name": "Tongshuang Wu",
+        "url": "https://www.cs.cmu.edu/~sherryw/"
+    },
+    "hz": {
+        "name": "Hayi Zhu",
+        "url": "https://haiyizhu.com/"
+    },
+    "ma2": {
+        "name": "Maya Albayrak"
+    },
+    "aa": {
+        "name": "Alexis Anon"
+    },
+    "ab": {
+        "name": "Amanda Bertsch",
+        "url": "https://www.cs.cmu.edu/~abertsch/"
+    },
+    "wd": {
+        "name": "Wenxing Deng"
+    },
+    "zd": {
+        "name": "Ziqi Ding"
+    },
+    "bg": {
+        "name": "Bill Guo"
+    },
+    "sg2": {
+        "name": "Sireesh Gururaja",
+        "url": "https://www.siree.sh/"
+    },
+    "tk": {
+        "name": "Tzu-Sheng Kuo",
+        "url": "https://tskuo.github.io/"
+    },
+    "rl": {
+        "name": "Ryan Liu",
+        "url": "https://theryanl.github.io/"
+    },
+    "im": {
+        "name": "Ihita Mandal"
+    },
+    "jm": {
+        "name": "Jeremiah Millbauer",
+        "url": "https://jeremiah.milbauer.info/"
+    },
+    "xn": {
+        "name": "Xiaolin Ni"
+    },
+    "np": {
+        "name": "Namrata Padmanabhan"
+    },
+    "sr": {
+        "name": "Subhashini Ramkumar"
+    },
+    "as": {
+        "name": "Alexis Sudjianto"
+    },
+    "jt": {
+        "name": "Jordan Taylor",
+        "url": "https://jtaylor.gay/"
+    },
+    "yt2": {
+        "name": "Ying-Jui Tseng"
+    },
+    "pv": {
+        "name": "Patricia Vaidos"
+    },
+    "zw": {
+        "name": "Zhijin Wu"
+    },
+    "ww": {
+        "name": "Wei Wu"
+    },
+    "sl": {
+        "name": "Sydney Levine",
+        "url": "https://sites.google.com/site/sydneymlevine/"
+    },
+    "jd": {
+        "name": "Jesse Dodge",
+        "url": "https://jessedodge.github.io/"
+    },
+    "ks": {
+        "name": "Keisuke Sakaguchi",
+        "url": "https://keisuke-sakaguchi.github.io/"
+    },
+    "ts": {
+        "name": "Taylor Sorensen",
+        "url": "https://tsor13.github.io/"
+    },
+    "jh": {
+        "name": "Jack Hessel",
+        "url": "https://jmhessel.com/"
+    },
+    "sg": {
+        "name": "Saadia Gabriel",
+        "url": "https://homes.cs.washington.edu/~skgabrie/"
+    },
+    "yt": {
+        "name": "Yulia Tsvetkov",
+        "url": "https://homes.cs.washington.edu/~yuliats/"
+    },
+    "rr": {
+        "name": "Regina Rini",
+        "url": "https://reginarini.net/"
+    },
+    "cy": {
+        "name": "Chenyang Yang",
+        "url": "https://www.cs.cmu.edu/~cyang3/"
+    },
+    "bam": {
+        "name": "Brad A. Myers",
+        "url": "https://www.cs.cmu.edu/~bam/"
+    },
+    "tz": {
+        "name": "Thomas Zimmermann",
+        "url": "https://thomas-zimmermann.com/"
+    },
+    "df": {
+        "name": "Denae Ford",
+        "url": "https://denaeford.me/"
+    },
+    "ma": {
+        "name": "Maryam Arab",
+        "url": "https://mason.gmu.edu/~marab/"
+    },
+    "tdl": {
+        "name": "Thomas D. LaToza",
+        "url": "https://cs.gmu.edu/~tlatoza/"
+    },
+    "jtl": {
+        "name": "Jenny T. Liang"
+    },
+    "jl": {
+        "name": "Jenny Liang"
+    },
+    "ajk": {
+        "name": "Amy J. Ko",
+        "url": "https://faculty.washington.edu/ajko/"
+    },
+    "lj": {
+        "name": "Liwei Jiang",
+        "url": "https://liweijiang.me/"
+    },
+    "jdh": {
+        "name": "Jen D. Hwang",
+        "url": "https://jenahwang.github.io/"
+    },
+    "cb": {
+        "name": "Chandra Bhagavatula",
+        "url": "https://www.chandrab.page/"
+    },
+    "rlb": {
+        "name": "Ronan Le Bras",
+        "url": "https://rlebras.github.io/"
+    },
+    "mf": {
+        "name": "Maxwell Forbes",
+        "url": "https://maxwellforbes.com/"
+    },
+    "jb": {
+        "name": "Jonathan Borchardt"
+    },
+    "oe": {
+        "name": "Oren Etzioni",
+        "url": "https://allenai.org/team/orene"
+    },
+    "ms": {
+        "name": "Maarten Sap",
+        "url": "https://homes.cs.washington.edu/~msap/"
+    },
+    "yc": {
+        "name": "Yejin Choi",
+        "url": "https://homes.cs.washington.edu/~yejin/"
+    },
+    "yky": {
+        "name": "Yang Kyu Yoo"
+    },
+    "mj": {
+        "name": "Matthew Johnson",
+        "url": "https://matt9j.net/"
+    },
+    "ml": {
+        "name": "Michelle Lin"
+    },
+    "ss": {
+        "name": "Sudheesh Singanamalla",
+        "url": "https://sudheesh.info/"
+    },
+    "kh": {
+        "name": "Kurtis Heimerl",
+        "url": "https://kurti.sh/"
+    },
+    "ss2": {
+        "name": "Spencer Sevilla",
+        "url": "https://spencersevilla.com/"
+    },
+    "pk": {
+        "name": "Pathirat Kosakanchit",
+        "url": "https://pathir.at/"
+    },
+    "xl": {
+        "name": "Ximing Lu",
+        "url": "https://gloriaximinglu.github.io/"
+    },
+    "ss3": {
+        "name": "Swabha Swayamdipta",
+        "url": "https://swabhs.com/"
+    },
+    "mk": {
+        "name": "Minhyuk Ko",
+        "url": "https://people.cs.vt.edu/minhyukko/"
+    },
+    "ss4": {
+        "name": "Sebastin Santy",
+        "url": "https://sebastinsanty.com/"
+    },
+    "kr": {
+        "name": "Katharina Reinecke",
+        "url": "https://homes.cs.washington.edu/~reinecke/"
+    },
+    "jm2": {
+        "name": "Jimin Mun",
+        "url": "https://jiminmun.github.io/"
+    },
+    "cb4": {
+        "name": "Cathy Buerger"
+    },
+    "jg": {
+        "name": "Joshua Garlan",
+        "url": "https://sites.santafe.edu/~joshua/"
+    }
+}

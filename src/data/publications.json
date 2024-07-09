@@ -1,0 +1,242 @@
+[
+    {
+        "title": "Can GPT-4 Replicate Empirical Software Engineering Research?",
+        "authors": ["jtl", "cb2", "cb3", "rd", "df", "nf", "tz"],
+        "imageName": "llm_replication.png",
+        "year": 2024,
+        "venue": "ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)", 
+        "description": "We study whether LLMs are able to replicate empirical software engineering papers.",
+        "urls": [
+            {
+                "label": "paper",
+                "url": "https://arxiv.org/pdf/2310.01727.pdf"
+            }
+        ],
+        "tags": [
+            "machine learning", "software engineering"
+        ]
+    },
+    {
+        "title": "Counterspeakers' Perspectives: Unveiling Barriers and AI Needs in the Fight against Online Hate",
+        "authors": ["jm2", "cb4*", "jtl*", "jg", "ms"],
+        "imageName": "counterspeakers.png",
+        "year": 2024,
+        "venue": "ACM CHI Conference on Human Factors in Computing Systems (CHI)", 
+        "description": "We study how AI can assist with fighting online hate speech with counterspeakers who combat toxicity on the web.",
+        "urls": [
+            {
+                "label": "paper",
+                "url": "https://arxiv.org/pdf/2403.00179"
+            }
+        ],
+        "tags": [
+            "human-computer interaction", "machine learning"
+        ]
+    },
+    {
+        "title": "A Large-Scale Survey on the Usability of AI Programming Assistants: Successes and Challenges",
+        "authors": ["jtl", "cy", "bam"],
+        "imageName": "code_gen_usability.png",
+        "venue": "IEEE/ACM International Conference on Software Engineering (ICSE)", 
+        "year": 2024,
+        "description": "We study the usability issues that developers encounter when using AI programming assistants, like GitHub Copilot.",
+        "urls": [{
+            "label": "paper",
+            "url": "https://arxiv.org/pdf/2303.17125.pdf"
+        }],
+        "tags": [
+            "software engineering", "human-computer interaction"
+        ]
+    },
+    {
+        "title": "NLPositionality: Measuring Positionality and Design Biases in Datasets and Models in NLP",
+        "authors": ["ss4*", "jtl*", "rlb", "kr", "ms"],
+        "imageName": "nlpositionality.png",
+        "venue": "Annual Conference of the Association for Computational Linguistics (ACL)",
+        "year": 2023,
+        "description": "We systematically evaluate whose perspectives large language models and NLP datasets align with the most.",
+        "urls": [
+            {
+                "label": "paper",
+                "url": "https://arxiv.org/pdf/2306.01943.pdf"
+            },
+            {
+                "label": "poster",
+                "url": "nlpositionality"
+            }
+        ],
+        "tags": [
+            "machine learning", "human-computer interaction", "award-winning"
+        ],
+        "awards": [
+            "Outstanding Paper Award"
+        ]
+    },
+    {
+        "title": "A Qualitative Study on the Implementation Design Decisions of Developers",
+        "authors": ["jtl", "ma", "mk", "ajk", "tdl"],
+        "imageName": "understanding_developers.png",
+        "venue": "IEEE/ACM International Conference on Software Engineering (ICSE)",
+        "year": 2023,
+        "description": "We investigate the types of implementation decisions software developers make, considerations they have, the processes they follow, and the expertise required in this process.",
+        "urls": [
+            {
+                "label": "paper",
+                "url": "https://arxiv.org/pdf/2301.09789.pdf"
+            },
+            {
+                "label": "poster",
+                "url": "understanding_developers"
+            }
+        ],
+        "tags": [
+            "software engineering", "human-computer interaction", "award-winning"
+        ],
+        "awards": [
+            "Distinguished Paper Award"
+        ]
+    },
+    {
+        "title": "Understanding Skills for OSS Communities on GitHub",
+        "authors": ["jtl", "tz", "df"],
+        "imageName": "understanding_skills.png",
+        "venue": "ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)",
+        "year": 2022,
+        "description": "We develop a model of skills that open-source software (OSS) contributors have and investigate how contributors would like to show and develop their skills.",
+        "urls": [
+            {
+                "label": "paper",
+                "url": "https://arxiv.org/pdf/2209.02222.pdf"
+            },
+            {
+                "label": "presentation",
+                "url": "https://www.youtube.com/watch?v=zByfFVs88pU"
+            }
+        ],
+        "tags": [
+            "software engineering", "human-computer interaction"
+        ]
+    },
+    {
+        "title": "Towards Mining OSS Skills from GitHub Activity",
+        "authors": ["jtl", "tz", "df"],
+        "imageName": "mining_oss_skills.png",
+        "venue": "IEEE/ACM International Conference on Software Engineering - New Ideas and Emerging Results (ICSE-NIER)",
+        "year": 2022,
+        "description": "We develop a novel approach to skills detection for soft and hard skills relevant to open source software and prototype it in a tool called DISKO.",
+        "urls": [
+            {
+                "label": "paper",
+                "url": "https://arxiv.org/pdf/2203.02027.pdf"
+            },
+            {
+                "label": "poster",
+                "url": "mining_oss_skills"
+            },
+            {
+                "label": "presentation",
+                "url": "https://www.youtube.com/watch?v=hDjWuylCBNE"
+            }
+        ],
+        "tags": [
+            "software engineering"
+        ]
+    },
+    {
+        "title": "An Exploratory Study of Sharing Strategic Programming Knowledge",
+        "authors": ["ma", "tdl", "jl", "ajk"],
+        "imageName": "strategy_authoring.png",
+        "venue": "ACM CHI Conference on Human Factors in Computing Systems (CHI)",
+        "year": 2022,
+        "description": "We investigate the challeges behind articulating, using, and improving on explicit programming strategies.",
+        "urls": [
+            {
+                "label": "paper",
+                "url": "https://dl.acm.org/doi/fullHtml/10.1145/3491102.3502070"
+            }
+        ],
+        "tags": [
+            "software engineering", "human-computer interaction"
+        ]
+    },
+    {
+        "title": "HowToo: A Platform for Sharing, Finding, and Using Programming Strategies",
+        "authors": ["ma", "jl*", "yky*", "tdl", "ajk"],
+        "imageName": "howtoo.png",
+        "venue": "IEEE Visual Languages and Human-Centric Computing (VL/HCC)",
+        "year": 2021,
+        "description": "We study how sharing and collaborating on explicit programming strategies impacts developers’ problem-solving abilities.",
+        "urls": [
+            {
+                "label": "paper",
+                "url": "https://faculty.washington.edu/ajko/papers/Arab2021HowToo.pdf"
+            },
+            {
+                "label": "website",
+                "url": "https://howtoo.herokuapp.com/"
+            }
+        ],
+        "tags": [
+            "software engineering", "human-computer interaction"
+        ]
+    },
+    {
+        "title": "Whale Watching in Inland Indonesia: Analyzing a Small, Remote, Internet-Based Community Cellular Network",
+        "authors": ["mj", "jl", "ml", "ss", "kh"],
+        "imageName": "whale_watching.png",
+        "venue": "The Web Conference (WWW)",
+        "year": 2021,
+        "description": "We analyze a novel dataset on traffic data to produce insights on a small, remote, internet-based community network.",
+        "urls": [
+            {
+                "label": "paper",
+                "url": "https://sudheesh.info/papers/johnson21www.pdf"
+            }
+        ],
+        "tags": [
+            "networks"
+        ]
+    },
+    {
+        "title": "Experiences: Design, Implementation, and Deployment of CoLTE, a Community LTE Solution",
+        "authors": ["ss2", "mj", "pk", "jl", "kh"],
+        "imageName": "colte.png",
+        "venue": "ACM International Conference on Mobile Computing and Networking (MobiCom)",
+        "year": 2019,
+        "description": "We report our experiences of building and deploying community-owned and -operated LTE networks in rural areas.",
+        "urls": [
+            {
+                "label": "paper",
+                "url": "https://kurti.sh/pubs/CoLTE_Mobicom_2019.pdf"
+            },
+            {
+                "label": "github",
+                "url": "https://github.com/uw-ictd/colte"
+            }
+        ],
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "title": "An All-in-One Community LTE Network",
+        "authors": ["ss2", "mj", "pk", "jl", "kh"],
+        "imageName": "colte_demo.png",
+        "venue": "ACM International Conference on Mobile Computing and Networking (MobiCom)",
+        "year": 2019,
+        "description": "We present our demo for the Community LTE project (CoLTE) to be presented at the Mobicom 2019 conference.",
+        "urls": [
+            {
+                "label": "paper",
+                "url": "https://kurti.sh/pubs/CoLTE_Mobicom_Demo_2019.pdf"
+            },
+            {
+                "label": "github",
+                "url": "https://github.com/uw-ictd/colte"
+            }
+        ],
+        "tags": [
+            "other"
+        ]
+    }
+]

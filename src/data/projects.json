@@ -1,0 +1,78 @@
+[
+    {
+        "title": "LLMs as Workers in Human-Computational Algorithms? Replicating Crowdsourcing Pipelines with LLMs",
+        "authors": ["tw", "hz", "ma2", "aa", "ab", "wd", "zd", "bg", "sg2", "tk", "jtl", "rl", "im", "jm", "xn", "np", "sr", "as", "jt", "yt2", "pv", "zw", "ww", "cy"],
+        "imageName": "crowdsourcing_llms.png",
+        "year": 2023,
+        "description": "We study whether large language models (LLMs) have the capacity to replicate human behavior in complex crowdsourcing pipelines.",
+        "urls": [
+            {
+                "label": "paper",
+                "url": "https://arxiv.org/pdf/2307.10168.pdf"
+            }
+        ],
+        "tags": [
+            "machine learning", "human-computer interaction"
+        ]
+    },
+    {
+        "title": "Delphi: Towards Machine Ethics and Norms",
+        "authors": ["lj", "jdh", "cb", "rlb", "jl", "sl", "jd", "ks", "mf", "ts", "jb", "jh", "sg", "yt", "oe", "ms", "rr", "yc"],
+        "imageName": "delphi.png",
+        "year": 2022,
+        "description": "We perform an initial exploration on modeling people’s moral judgments on a variety of everyday situations to create more ethical, socially responsible AI.",
+        "urls": [
+            {
+                "label": "paper",
+                "url": "https://www.semanticscholar.org/paper/Delphi%3A-Towards-Machine-Ethics-and-Norms-Jiang-Hwang/98eb27ccd9f0875e6e3a350a8a238dc96373a504"
+            },
+            {
+                "label": "demo",
+                "url": "http://delphi.allenai.org/"
+            }
+        ],
+        "tags": [
+            "machine learning", "demo"
+        ]
+    },
+    {
+        "title": "Interpreting Hate Speech Classifiers: Does Dataset Label Space Matter?",
+        "authors": ["jl", "xl", "lj", "ss3"],
+        "imageName": "interpreting_hate.png",
+        "year": 2021,
+        "description": "We use machine learning interpretability methods to understand how hate speech classifiers make decisions and whether the dataset label space influences such decisions.",
+        "urls": [
+            {
+                "label": "presentation",
+                "url": "https://youtu.be/m60KeDHMyBw"
+            }
+        ],
+        "tags": [
+            "machine learning"
+        ]
+    },
+    {
+        "title": "Visual COMET: Visual Commonsense Reasoning in Time",
+        "authors": [],
+        "imageName": "visual_comet.png",
+        "year": 2021,
+        "description": "I developed a research demo for Visual COMET to make visual commonsense inferences on images for events before, during, and after the image.",
+        "urls": [
+            {
+                "label": "paper",
+                "url": "https://arxiv.org/abs/2004.10796"
+            },
+            {
+                "label": "demo",
+                "url": "https://mosaickg.apps.allenai.org/visual_comet"
+            },
+            {
+                "label": "website",
+                "url": "https://visualcomet.xyz/"
+            }
+        ],
+        "tags": [
+            "demo"
+        ]
+    }
+]
