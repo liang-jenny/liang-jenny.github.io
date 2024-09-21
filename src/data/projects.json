@@ -1,4 +1,20 @@
-[
+[   
+    {
+        "title": "Prompts Are Programs Too! Understanding How Developers Build Software Containing Prompts",
+        "authors": ["jtl", "ml2*", "nr*", "bam"],
+        "imageName": "prompting_programming.png",
+        "year": 2024,
+        "description": "We study how prompt programming is similar and different to traditional software engineering.",
+        "urls": [
+            {
+                "label": "paper",
+                "url": "https://arxiv.org/pdf/2409.12447"
+            }
+        ],
+        "tags": [
+            "software engineering", "artificial intelligence", "human-computer interaction"
+        ]
+    }, 
     {
         "title": "LLMs as Workers in Human-Computational Algorithms? Replicating Crowdsourcing Pipelines with LLMs",
         "authors": ["tw", "hz", "ma2", "aa", "ab", "wd", "zd", "bg", "sg2", "tk", "jtl", "rl", "im", "jm", "xn", "np", "sr", "as", "jt", "yt2", "pv", "zw", "ww", "cy"],
@@ -12,7 +28,7 @@
             }
         ],
         "tags": [
-            "machine learning", "human-computer interaction"
+            "artificial intelligence", "human-computer interaction"
         ]
     },
     {
@@ -32,7 +48,7 @@
             }
         ],
         "tags": [
-            "machine learning", "demo"
+            "artificial intelligence", "demo"
         ]
     },
     {
@@ -40,7 +56,7 @@
         "authors": ["jl", "xl", "lj", "ss3"],
         "imageName": "interpreting_hate.png",
         "year": 2021,
-        "description": "We use machine learning interpretability methods to understand how hate speech classifiers make decisions and whether the dataset label space influences such decisions.",
+        "description": "We use artificial intelligence interpretability methods to understand how hate speech classifiers make decisions and whether the dataset label space influences such decisions.",
         "urls": [
             {
                 "label": "presentation",
@@ -48,7 +64,7 @@
             }
         ],
         "tags": [
-            "machine learning"
+            "artificial intelligence"
         ]
     },
     {

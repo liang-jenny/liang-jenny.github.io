@@ -26,7 +26,7 @@ export const tags: string[] = [
     "award-winning",
     "software engineering",
     "human-computer interaction",
-    "machine learning",
+    "artificial intelligence",
     "other",
     "demo"
 ]
