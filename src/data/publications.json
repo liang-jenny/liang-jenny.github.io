@@ -1,11 +1,28 @@
 [
     {
+        "title": "Particip-AI: A Democratic Surveying Framework for Anticipating Future AI Use Cases, Harms and Benefits",
+        "authors": ["jm2", "lj", "jtl", "ic", "nd", "yc", "tk2", "ms"],
+        "imageName": "participai.png",
+        "year": 2024,
+        "venue": "AAAI/ACM Conference on Artificial Intellignece, Ethics, and Society (AIES)", 
+        "description": "We develop a framework for collecting public opinions on AI and report the public's perceptions on state-of-the-art AI.",
+        "urls": [
+            {
+                "label": "paper",
+                "url": "https://arxiv.org/pdf/2403.14791"
+            }
+        ],
+        "tags": [
+            "artificial intelligence", "human-computer interaction"
+        ]
+    },
+    {
         "title": "Can GPT-4 Replicate Empirical Software Engineering Research?",
         "authors": ["jtl", "cb2", "cb3", "rd", "df", "nf", "tz"],
         "imageName": "llm_replication.png",
         "year": 2024,
         "venue": "ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)", 
-        "description": "We study whether LLMs are able to replicate empirical software engineering papers.",
+        "description": "We study whether LLMs are able to replicate empirical software engineering papers, including generating assumptions of research methodologies as well as generating code pipelines to repliate quantitative analysies.",
         "urls": [
             {
                 "label": "paper",

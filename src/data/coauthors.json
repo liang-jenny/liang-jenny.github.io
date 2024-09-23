@@ -1,4 +1,15 @@
 {
+    "tk2": {
+        "name": "Tadayoshi Kohno",
+        "url": "https://homes.cs.washington.edu/~yoshi/"
+    },
+    "ic": {
+        "name": "Inyoung Cheong",
+        "url": "https://inyoungcheong.github.io/"
+    },
+    "nd": {
+        "name": "Nicole DeCario"
+    },
     "ml2": {
         "name": "Melissa Lin"
     },
