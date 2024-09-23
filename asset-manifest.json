@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.d9691b13.js",
+    "main.js": "/static/js/main.394f6ee6.js",
     "static/js/453.0affb415.chunk.js": "/static/js/453.0affb415.chunk.js",
     "static/media/understanding_skills.png": "/static/media/understanding_skills.20a9835de8ea01a3eb5b.png",
     "static/media/nlpositionality.pdf": "/static/media/nlpositionality.13916f06200b43759e88.pdf",
@@ -43,6 +43,7 @@
     "static/media/howtoo.png": "/static/media/howtoo.d5f1a5848cca421fae24.png",
     "static/media/whale_watching.png": "/static/media/whale_watching.703094fe0c8643564dc7.png",
     "static/media/crowdsourcing_llms.png": "/static/media/crowdsourcing_llms.db74f0e5ee895419514a.png",
+    "static/media/participai.png": "/static/media/participai.0b08a23d460f2aa6d290.png",
     "static/media/lisbon2.jpeg": "/static/media/lisbon2.789dc081cdd49e92576d.jpeg",
     "static/media/melbourne1.jpeg": "/static/media/melbourne1.d7fc2859c65dfd46426b.jpeg",
     "static/media/pittsburgh3.jpeg": "/static/media/pittsburgh3.48304c3b123e1624ea27.jpeg",
@@ -55,11 +56,11 @@
     "static/media/comet.png": "/static/media/comet.153ad94de4cf5ecd733c.png",
     "index.html": "/index.html",
     "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.d9691b13.js.map": "/static/js/main.d9691b13.js.map",
+    "main.394f6ee6.js.map": "/static/js/main.394f6ee6.js.map",
     "453.0affb415.chunk.js.map": "/static/js/453.0affb415.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.d9691b13.js"
+    "static/js/main.394f6ee6.js"
   ]
 }
