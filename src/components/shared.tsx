@@ -41,6 +41,7 @@ export interface ResearchProjectData {
     year?: number,
     tags?: string[],
     awards?: string[],
+    shouldHideImage?: boolean,
 };
 
 export const ResearchProjectsContainer = styled.div`

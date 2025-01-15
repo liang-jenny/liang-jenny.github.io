@@ -40,7 +40,7 @@ const data = [
 
 const Travel = () => (
     <React.Fragment>
-        <h3>Travel 🌍</h3>
+        <h3>Travel</h3>
         <p>
             I've been extremely fortunate to travel as part of my job; I'm even more grateful for the labs and travel grants who have made this possible.
             {' '} Through this, I've discovered my own passion for travel and learned lots about different countries and cultures. 

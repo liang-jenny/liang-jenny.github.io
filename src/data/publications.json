@@ -1,5 +1,43 @@
 [
     {
+        "title": "LLMs as Workers in Human-Computational Algorithms? Replicating Crowdsourcing Pipelines with LLMs",
+        "authors": ["tw", "hz", "ma2", "aa", "ab", "wd", "zd", "bg", "sg2", "tk", "jtl", "rl", "im", "jm", "xn", "np", "sr", "as", "jt", "yt2", "pv", "zw", "ww", "cy"],
+        "imageName": "crowdsourcing_llms.png",
+        "year": 2025,
+        "venue": "ACM SIGCHI Conference on Human Factors in Computing Systems (CHI) 2025, Case Studies in Practice",
+        "description": "We study whether large language models (LLMs) have the capacity to replicate human behavior in complex crowdsourcing pipelines.",
+        "urls": [
+            {
+                "label": "paper",
+                "url": "https://arxiv.org/pdf/2307.10168.pdf"
+            }
+        ],
+        "tags": [
+            "artificial intelligence", "human-computer interaction"
+        ]
+    },
+    {
+        "title": "An Empirical Investigation of Machines’ Capabilities for Moral Judgment with the Delphi Experiment",
+        "authors": ["lj", "jdh", "cb*", "rlb*", "jl*", "sl*", "jd", "ks", "mf", "ts", "jb", "jh", "sg", "yt", "oe", "ms", "rr", "yc"],
+        "imageName": "delphi.png",
+        "year": 2025,
+        "venue": "Nature Machine Intelligence",
+        "description": "We perform an initial exploration on modeling people’s moral judgments on a variety of everyday situations to create more ethical, socially responsible AI.",
+        "urls": [
+            {
+                "label": "paper",
+                "url": "https://www.nature.com/articles/s42256-024-00969-6"
+            },
+            {
+                "label": "demo",
+                "url": "http://delphi.allenai.org/"
+            }
+        ],
+        "tags": [
+            "artificial intelligence", "demo"
+        ]
+    },
+    {
         "title": "Particip-AI: A Democratic Surveying Framework for Anticipating Future AI Use Cases, Harms and Benefits",
         "authors": ["jm2", "lj", "jtl", "ic", "nd", "yc", "tk2", "ms"],
         "imageName": "participai.png",
@@ -239,7 +277,7 @@
         "title": "An All-in-One Community LTE Network",
         "authors": ["ss2", "mj", "pk", "jl", "kh"],
         "imageName": "colte_demo.png",
-        "venue": "ACM International Conference on Mobile Computing and Networking (MobiCom)",
+        "venue": "ACM International Conference on Mobile Computing and Networking (MobiCom), Demo Track",
         "year": 2019,
         "description": "We present our demo for the Community LTE project (CoLTE) to be presented at the Mobicom 2019 conference.",
         "urls": [

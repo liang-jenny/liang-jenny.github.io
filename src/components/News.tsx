@@ -7,7 +7,7 @@ const News = () => (
     <React.Fragment>
         {hasData(newsData) && 
             <React.Fragment>
-                <h3>News 📰</h3>
+                <h3>News</h3>
                 <ul>
                     {newsData
                         .map((e: {date: string, description: string}, i: number ) => {

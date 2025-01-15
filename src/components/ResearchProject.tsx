@@ -18,7 +18,7 @@ const ResearchProject = (props: ResearchProjectData) => {
             </ResearchProjectImageContainer>
             <div>
                 <ResearchProjectMetadata>
-                    <h3>{props.title} {hasData(props.awards) && props.awards?.map((e) => <Tag color='purple'>{e}</Tag>)} </h3>
+                    <h4>{props.title} {hasData(props.awards) && props.awards?.map((e) => <Tag color='purple'>{e}</Tag>)} </h4>
                     {hasData(props.authors) && <p>{getCoauthorData(props.authors)}</p>}
                     {props.venue && props.year && <p><Italic>{props.venue}, {props.year}</Italic></p>}
                     {!props.venue && props.year && <p><Italic>{props.year}</Italic></p>}
@@ -27,6 +27,31 @@ const ResearchProject = (props: ResearchProjectData) => {
                 {<p style={{"fontSize": "0.9em"}}>{getUrlData(props.urls)}</p>}
             </div>
         </ResearchProjectContainer>
+    )
+}
+
+export const ExampleResearchProject = (props: ResearchProjectData) => {
+    return (
+        !props.shouldHideImage ? (
+            <ResearchProjectContainer key={props.title}>
+                <ResearchProjectImageContainer>
+                    <img src={require('../img/research/' + props.imageName)} alt={'image of ' + props.title} />
+                </ResearchProjectImageContainer>
+                <ResearchProjectMetadata>
+                    <h4>{props.title} {hasData(props.awards) && props.awards?.map((e) => <Tag color='purple'>{e}</Tag>)} </h4>
+                    {hasData(props.authors) && <p>{getCoauthorData(props.authors)}</p>}
+                    {props.venue && props.year && <p><Italic>{props.venue}, {props.year}</Italic></p>}
+                    {!props.venue && props.year && <p><Italic>{props.year}</Italic></p>}
+                </ResearchProjectMetadata>
+            </ResearchProjectContainer>
+        ) : (
+            <ResearchProjectMetadata>
+                <h4>{props.title} {hasData(props.awards) && props.awards?.map((e) => <Tag color='purple'>{e}</Tag>)} </h4>
+                {hasData(props.authors) && <p>{getCoauthorData(props.authors)}</p>}
+                {props.venue && props.year && <p><Italic>{props.venue}, {props.year}</Italic></p>}
+                {!props.venue && props.year && <p><Italic>{props.year}</Italic></p>}
+            </ResearchProjectMetadata>
+        )
     )
 }
 
@@ -109,8 +134,8 @@ const ResearchProjectMetadata = styled.div`
 
 const ResearchProjectImageContainer = styled.div`
     img {
-        max-height: 200px;
-        max-width: 200px;
+        max-height: 150px;
+        max-width: 150px;
         border-radius: 4px;
     }
 
@@ -118,8 +143,8 @@ const ResearchProjectImageContainer = styled.div`
         content: "";
         background: linear-gradient(90deg, gray, lightgray);
         position: absolute;
-        height: 210px;
-        width: 210px;
+        height: 160px;
+        width: 160px;
         z-index: -1;
         filter: blur(10px);
     }
@@ -135,7 +160,6 @@ const ResearchProjectImageContainer = styled.div`
 
 const ResearchProjectContainer = styled.div`
     display: grid;
-    grid-gap: 36px;
     grid-template-columns: 200px 1fr;
     align-items: center;
     padding: 12px;
@@ -145,13 +169,13 @@ const ResearchProjectContainer = styled.div`
         grid-template-rows: repeat(1, 1fr);
         grid-template-columns: none;
         img {
-            max-height: 250px;
-            max-width: 250px;
+            max-height: 150px;
+            max-width: 150px;
             width: 100%;
         }
     }
 
-    p, h3 {
+    p, h4 {
         margin-bottom: 2px;
     }
 `
