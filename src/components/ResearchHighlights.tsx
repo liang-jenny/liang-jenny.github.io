@@ -1,5 +1,5 @@
 import React from 'react';
-import { ExampleResearchProject } from './ResearchProject';
+import ResearchProject from './ResearchProject';
 import { ResearchProjectData, ResearchProjectsContainer }  from './shared';
 import { Link } from 'react-router-dom';
 
@@ -31,7 +31,7 @@ const ResearchHighlights = () => (
                 {seHciData
                     .map((e: ResearchProjectData) => {
                         return (
-                            <ExampleResearchProject key={e.title} {...e} / >
+                            <ResearchProject key={e.title} projectData={e} hideDescription={true} hideLinks={true} / >
                         )
                     })
                 }
@@ -43,7 +43,7 @@ const ResearchHighlights = () => (
                 {hciAiData
                     .map((e: ResearchProjectData) => {
                         return (
-                            <ExampleResearchProject key={e.title} {...e} / >
+                            <ResearchProject key={e.title} projectData={e} hideDescription={true} hideLinks={true} / >
                         )
                     })
                 }
@@ -55,7 +55,7 @@ const ResearchHighlights = () => (
                 {seAiData
                     .map((e: ResearchProjectData) => {
                         return (
-                            <ExampleResearchProject key={e.title} {...e} / >
+                            <ResearchProject key={e.title} projectData={e} hideDescription={true} hideLinks={true} / >
                         )
                     })
                 }

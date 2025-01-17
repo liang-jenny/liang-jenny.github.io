@@ -4,7 +4,7 @@
         "authors": ["tw", "hz", "ma2", "aa", "ab", "wd", "zd", "bg", "sg2", "tk", "jtl", "rl", "im", "jm", "xn", "np", "sr", "as", "jt", "yt2", "pv", "zw", "ww", "cy"],
         "imageName": "crowdsourcing_llms.png",
         "year": 2025,
-        "venue": "ACM SIGCHI Conference on Human Factors in Computing Systems (CHI) 2025, Case Studies in Practice",
+        "venue": "ACM CHI Conference on Human Factors in Computing Systems (CHI) - Case Studies in Practice",
         "description": "We study whether large language models (LLMs) have the capacity to replicate human behavior in complex crowdsourcing pipelines.",
         "urls": [
             {

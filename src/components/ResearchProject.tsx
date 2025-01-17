@@ -10,52 +10,28 @@ import nlpositionalityPoster from '../data/nlpositionality.pdf';
 
 const coauthorData: { [name: string]: { name: string, url?: string } } = require('../data/coauthors.json');
 
-const ResearchProject = (props: ResearchProjectData) => {
+const ResearchProject = (props: { projectData: ResearchProjectData, hideDescription?: boolean, hideLinks?: boolean}) => {
     return (
-        <ResearchProjectContainer key={props.title}>
+        <ResearchProjectContainer key={props.projectData.title}>
             <ResearchProjectImageContainer>
-                <img src={require('../img/research/' + props.imageName)} alt={'image of ' + props.title} />
+                <img src={require('../img/research/' + props.projectData.imageName)} alt={'image of ' + props.projectData.title} />
             </ResearchProjectImageContainer>
             <div>
                 <ResearchProjectMetadata>
-                    <h4>{props.title} {hasData(props.awards) && props.awards?.map((e) => <Tag color='purple'>{e}</Tag>)} </h4>
-                    {hasData(props.authors) && <p>{getCoauthorData(props.authors)}</p>}
-                    {props.venue && props.year && <p><Italic>{props.venue}, {props.year}</Italic></p>}
-                    {!props.venue && props.year && <p><Italic>{props.year}</Italic></p>}
-                    <p style={{"marginTop": "8px"}}>{props.description}</p>
+                    {hasData(props.projectData.awards) && props.projectData.awards?.map((e) => <Tag color='purple'>{e}</Tag>)}
+                    <h4>{props.projectData.title}</h4>
+                    {hasData(props.projectData.authors) && <p>{getCoauthorData(props.projectData.authors)}</p>}
+                    {props.projectData.venue && props.projectData.year && <p><Italic>{props.projectData.venue}, {props.projectData.year}</Italic></p>}
+                    {!props.projectData.venue && props.projectData.year && <p><Italic>{props.projectData.year}</Italic></p>}
+                    {!props.hideDescription && <p style={{"marginTop": "8px"}}>{props.projectData.description}</p>}
                 </ResearchProjectMetadata>
-                {<p style={{"fontSize": "0.9em"}}>{getUrlData(props.urls)}</p>}
+                {!props.hideLinks && <p style={{"fontSize": "0.9em"}}>{getUrlData(props.projectData.urls)}</p>}
             </div>
         </ResearchProjectContainer>
     )
 }
 
-export const ExampleResearchProject = (props: ResearchProjectData) => {
-    return (
-        !props.shouldHideImage ? (
-            <ResearchProjectContainer key={props.title}>
-                <ResearchProjectImageContainer>
-                    <img src={require('../img/research/' + props.imageName)} alt={'image of ' + props.title} />
-                </ResearchProjectImageContainer>
-                <ResearchProjectMetadata>
-                    <h4>{props.title} {hasData(props.awards) && props.awards?.map((e) => <Tag color='purple'>{e}</Tag>)} </h4>
-                    {hasData(props.authors) && <p>{getCoauthorData(props.authors)}</p>}
-                    {props.venue && props.year && <p><Italic>{props.venue}, {props.year}</Italic></p>}
-                    {!props.venue && props.year && <p><Italic>{props.year}</Italic></p>}
-                </ResearchProjectMetadata>
-            </ResearchProjectContainer>
-        ) : (
-            <ResearchProjectMetadata>
-                <h4>{props.title} {hasData(props.awards) && props.awards?.map((e) => <Tag color='purple'>{e}</Tag>)} </h4>
-                {hasData(props.authors) && <p>{getCoauthorData(props.authors)}</p>}
-                {props.venue && props.year && <p><Italic>{props.venue}, {props.year}</Italic></p>}
-                {!props.venue && props.year && <p><Italic>{props.year}</Italic></p>}
-            </ResearchProjectMetadata>
-        )
-    )
-}
-
-const getCoauthorData = (keys?: string[]) => {
+export const getCoauthorData = (keys?: string[]) => {
     const data: any[] = [];
     keys?.forEach((key: string) => {
         const tempKey = key.replace('*', '')
@@ -130,6 +106,9 @@ const getUrlData = (urls?: {label: string, url: string}[]) => {
 
 const ResearchProjectMetadata = styled.div`
     margin-bottom: 16px;
+    > h4 {
+        margin-top: 8px;
+    }
 `
 
 const ResearchProjectImageContainer = styled.div`

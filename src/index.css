@@ -6,7 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   p, li {
-    font-size: 0.9em;
+    font-size: 14px;
   }
 }
 

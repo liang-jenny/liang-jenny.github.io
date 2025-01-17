@@ -39,7 +39,7 @@ const ResearchProjectsContent = () => {
                                                 .filter((e: ResearchProjectData) => e.year === year)
                                                 .map((e: ResearchProjectData) => {
                                                     return (
-                                                        <ResearchProject key={e.title} {...e} / >
+                                                        <ResearchProject key={e.title} projectData={e} / >
                                                     )
                                                 })
                                             }
