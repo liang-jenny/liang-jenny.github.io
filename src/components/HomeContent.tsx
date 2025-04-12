@@ -25,8 +25,8 @@ const HomeContent = () => (
             </p>
             <ol>
                 <li><b>Developer behavior:</b> How do developers write software? (SE + HCI)</li>
-                <li><b>Human-AI interaction:</b> How do humans interact with AI? What do users need from AI? (AI + HCI)</li>
-                <li><b>AI-augmented software development</b>: How can AI approaches support software engineering tasks? (SE + AI)</li>
+                <li><b>Human-AI interaction:</b> How do humans interact with AI? What do users need from AI? (HCI + AI)</li>
+                <li><b>AI-supported software development</b>: How can AI approaches support software engineering tasks? (SE + AI)</li>
             </ol>
             <p>
                 Have any questions or just want to chat? I'm always happy to meet new people—just reach out! Don't forget to say hi to my dog, {' '}

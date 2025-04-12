@@ -5,8 +5,13 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
   p, li {
     font-size: 14px;
+  }
+
+  li {
+    margin: 4px 0px;
   }
 }
 

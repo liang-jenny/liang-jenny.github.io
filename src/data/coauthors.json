@@ -1,4 +1,38 @@
 {
+    "gs": {
+        "name": "Gustavo Soares",
+        "url": "https://gustavoasoares.github.io/"
+    },
+    "emh": {
+        "name": "Emerson Murphy-Hill"
+    },
+    "at": {
+        "name": "Ashish Tiwari",
+        "url": "https://ashishxtiwari.github.io/"
+    },
+    "sg3": {
+       "name": "Sumit Gulwani",
+        "url": "https://www.microsoft.com/en-us/research/people/sumitg/"
+    },
+    "vl": {
+        "name": "Vu Le",
+        "url": "https://www.vuminhle.com/"
+    },
+    "cp": {
+        "name": "Chris Parnin",
+        "url": "https://www.chrisparnin.me/"
+    },
+    "ar": {
+        "name": "Arjun Radhakrishna",
+        "url": "https://www.microsoft.com/en-us/research/people/arradha/"
+    },
+    "ak": {
+        "name": "Aayush Kumar"
+    },
+    "yb": {
+        "name": "Yasharth Bajpai",
+        "url": "https://yasharthbajpai.com/"
+    },
     "tk2": {
         "name": "Tadayoshi Kohno",
         "url": "https://homes.cs.washington.edu/~yoshi/"
@@ -178,7 +212,7 @@
         "url": "https://liweijiang.me/"
     },
     "jdh": {
-        "name": "Jen D. Hwang",
+        "name": "Jena D. Hwang",
         "url": "https://jenahwang.github.io/"
     },
     "cb": {

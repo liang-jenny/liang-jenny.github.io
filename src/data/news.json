@@ -1,14 +1,22 @@
 [
     {
-        "date": "Apr 2024",
-        "description": "Our paper, \"Can GPT-4 Replicate Empirical Software Engineering Research?\" was accepted to ACM ESEC/FSE 2024. See you in Porto de Galinhas, Brazil! 🇧🇷"
+        "date": "Apr 2025",
+        "description": "I will be interning with the Data & Machine Learning Innovation Team at Apple this summer. 🍏"
+    },
+    {
+        "date": "Apr 2025",
+        "description": "My paper, \"Prompts Are Programs Too! Understanding How Developers Build Software Containing Prompts\" was accepted to ACM FSE 2025. See you in Trondheim, Norway! 🇳🇴"
+    },
+    {
+        "date": "Dec 2024",
+        "description": "Our paper on commonsense morality was accepted to Nature Machine Intelligence. 🤖"
     },
     {
         "date": "Jul 2023",
-        "description": "Our paper, \"NLPositionality: Measuring Positionality and Design Biases in Datasets and Models in NLP\", won an Outstanding Paper Award at ACL 2023. 🏆"
+        "description": "My paper, \"NLPositionality: Measuring Positionality and Design Biases in Datasets and Models in NLP\", won an Outstanding Paper Award at ACL 2023. 🏆"
     },
     {
         "date": "Feb 2023",
-        "description": "Our paper, \"A Qualitative Study on the Implementation Design Decisions of Developers\", won the ACM SIGSOFT Distinguished Paper Award at ICSE 2023. 🏆"
+        "description": "My paper, \"A Qualitative Study on the Implementation Design Decisions of Developers\", won the ACM SIGSOFT Distinguished Paper Award at ICSE 2023. 🏆"
     }
 ]

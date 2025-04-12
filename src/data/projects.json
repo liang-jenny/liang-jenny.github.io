@@ -1,20 +1,20 @@
-[   
+[
     {
-        "title": "Prompts Are Programs Too! Understanding How Developers Build Software Containing Prompts",
-        "authors": ["jtl", "ml2*", "nr*", "bam"],
-        "imageName": "prompting_programming.png",
-        "year": 2024,
-        "description": "We study how prompt programming is similar and different to traditional software engineering.",
+        "title": "TableTalk: Scaffolding Spreadsheet Development with a Language Agent",
+        "authors": ["jtl", "ak", "yb", "sg3", "vl", "cp", "ar", "emh*", "gs*"],
+        "imageName": "tabletalk.png",
+        "year": 2025,
+        "description": "We use language agents to interactively collaborate with spreadsheet programmers, which helps them create better spreadsheets.",
         "urls": [
             {
                 "label": "paper",
-                "url": "https://arxiv.org/pdf/2409.12447"
+                "url": "https://arxiv.org/pdf/2502.09787"
             }
         ],
         "tags": [
-            "software engineering", "artificial intelligence", "human-computer interaction"
+            "artificial intelligence", "human-computer interaction"
         ]
-    },
+    },   
     {
         "title": "Interpreting Hate Speech Classifiers: Does Dataset Label Space Matter?",
         "authors": ["jl", "xl", "lj", "ss3"],

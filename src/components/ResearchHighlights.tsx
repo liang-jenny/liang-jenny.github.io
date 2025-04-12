@@ -23,7 +23,7 @@ const seAiData: ResearchProjectData[] = publicationsData.filter(
 
 const ResearchHighlights = () => (
     <React.Fragment>
-        <h3>Research Highlights</h3>
+        <h3>Selected Publications</h3>
         <p>Here are a sample of research projects I have led. For a complete list of publications, please refer to the <Link to="/papers">Publications</Link> page.</p>
         <h4>Developer Behavior (SE+HCI)</h4>
         {
@@ -49,7 +49,7 @@ const ResearchHighlights = () => (
                 }
             </ResearchProjectsContainer>
         }
-        <h4>AI-augmented Software Development (SE+AI)</h4>
+        <h4>AI-supported Software Development (SE+AI)</h4>
         {
             <ResearchProjectsContainer>
                 {seAiData

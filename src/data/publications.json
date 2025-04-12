@@ -1,5 +1,22 @@
 [
     {
+        "title": "Prompts Are Programs Too! Understanding How Developers Build Software Containing Prompts",
+        "authors": ["jtl", "ml2*", "nr*", "bam"],
+        "imageName": "prompting_programming.png",
+        "year": 2025,
+        "venue": "ACM International Conference on the Foundations of Software Engineering (FSE)", 
+        "description": "We how programmers develop natural language prompts in software applications, known as \"prompt programming\".",
+        "urls": [
+            {
+                "label": "paper",
+                "url": "https://arxiv.org/pdf/2409.12447"
+            }
+        ],
+        "tags": [
+            "software engineering", "artificial intelligence", "human-computer interaction"
+        ]
+    },
+    {
         "title": "LLMs as Workers in Human-Computational Algorithms? Replicating Crowdsourcing Pipelines with LLMs",
         "authors": ["tw", "hz", "ma2", "aa", "ab", "wd", "zd", "bg", "sg2", "tk", "jtl", "rl", "im", "jm", "xn", "np", "sr", "as", "jt", "yt2", "pv", "zw", "ww", "cy"],
         "imageName": "crowdsourcing_llms.png",
@@ -18,7 +35,7 @@
     },
     {
         "title": "An Empirical Investigation of Machines’ Capabilities for Moral Judgment with the Delphi Experiment",
-        "authors": ["lj", "jdh", "cb*", "rlb*", "jl*", "sl*", "jd", "ks", "mf", "ts", "jb", "jh", "sg", "yt", "oe", "ms", "rr", "yc"],
+        "authors": ["lj", "jdh", "cb*", "rlb*", "jtl*", "sl*", "jd", "ks", "mf", "ts", "jb", "jh", "sg", "yt", "oe", "ms", "rr", "yc"],
         "imageName": "delphi.png",
         "year": 2025,
         "venue": "Nature Machine Intelligence",
