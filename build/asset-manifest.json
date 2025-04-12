@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.aa83c497.css",
-    "main.js": "/static/js/main.15f8c4be.js",
+    "main.css": "/static/css/main.05baa667.css",
+    "main.js": "/static/js/main.5f836722.js",
     "static/js/453.0affb415.chunk.js": "/static/js/453.0affb415.chunk.js",
     "static/media/understanding_skills.png": "/static/media/understanding_skills.20a9835de8ea01a3eb5b.png",
     "static/media/nlpositionality.pdf": "/static/media/nlpositionality.13916f06200b43759e88.pdf",
     "static/media/understanding_developers.pdf": "/static/media/understanding_developers.79933e4d61356d230c2b.pdf",
     "static/media/understanding_developers.png": "/static/media/understanding_developers.986af04d57e5864b98c4.png",
     "static/media/cdmx3.png": "/static/media/cdmx3.134c13cc654f6909974c.png",
-    "static/media/cv.pdf": "/static/media/cv.151ce360021a23db6c35.pdf",
+    "static/media/cv.pdf": "/static/media/cv.cd4d3a56be7f8f0de996.pdf",
     "static/media/cdmx1.png": "/static/media/cdmx1.8e94273dd288650466da.png",
     "static/media/powerlifting1.png": "/static/media/powerlifting1.a84b4ed33ff31f6558ff.png",
     "static/media/pittsburgh1.png": "/static/media/pittsburgh1.fde984bfd7e531f823d2.png",
@@ -33,6 +33,7 @@
     "static/media/cabo2.jpeg": "/static/media/cabo2.7409424d2aacbe6c3555.jpeg",
     "static/media/singapore3.jpeg": "/static/media/singapore3.fa55b0487528dbd472aa.jpeg",
     "static/media/strategy_authoring.png": "/static/media/strategy_authoring.a6e338148053f7433b65.png",
+    "static/media/tabletalk.png": "/static/media/tabletalk.0c8adcb92c9dd3c4a2ce.png",
     "static/media/toronto1.jpeg": "/static/media/toronto1.283bedc79adfecbdf627.jpeg",
     "static/media/visual_comet.png": "/static/media/visual_comet.b9d1400736263669851e.png",
     "static/media/singapore1.jpeg": "/static/media/singapore1.3646d0ff14914ff96594.jpeg",
@@ -55,12 +56,12 @@
     "static/media/interpreting_hate.png": "/static/media/interpreting_hate.c1876a1456ed446726e6.png",
     "static/media/comet.png": "/static/media/comet.153ad94de4cf5ecd733c.png",
     "index.html": "/index.html",
-    "main.aa83c497.css.map": "/static/css/main.aa83c497.css.map",
-    "main.15f8c4be.js.map": "/static/js/main.15f8c4be.js.map",
+    "main.05baa667.css.map": "/static/css/main.05baa667.css.map",
+    "main.5f836722.js.map": "/static/js/main.5f836722.js.map",
     "453.0affb415.chunk.js.map": "/static/js/453.0affb415.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa83c497.css",
-    "static/js/main.15f8c4be.js"
+    "static/css/main.05baa667.css",
+    "static/js/main.5f836722.js"
   ]
 }
