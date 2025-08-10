@@ -27,15 +27,25 @@ import pittsburgh3Src from "../img/travel/pittsburgh3.jpeg";
 import honolulu1Src from "../img/travel/honolulu1.png";
 import honolulu2Src from "../img/travel/honolulu2.png";
 import honolulu3Src from "../img/travel/honolulu3.png";
+import portoDeGalinhas1Src from "../img/travel/porto-de-galinhas1.jpeg";
+import portoDeGalinhas2Src from "../img/travel/porto-de-galinhas2.jpeg";
+import portoDeGalinhas3Src from "../img/travel/porto-de-galinhas3.jpeg";
+import ottawa1Src from "../img/travel/ottawa1.jpeg";
+import ottawa2Src from "../img/travel/ottawa2.jpeg";
+import ottawa3Src from "../img/travel/ottawa3.jpeg";
+import trondheim1Src from "../img/travel/trondheim1.jpeg";
+import trondheim2Src from "../img/travel/trondheim2.jpeg";
+import trondheim3Src from "../img/travel/trondheim3.jpeg";
 
 const data = [
-    { country: "br", value: "Porto de Galinhas (FSE 2024)" },
-    { country: "pt", value: "Lisbon (ICSE 2024)" },
-    { country: "us", value: "Pittsburgh (ICSE 2022), Honolulu (CHI 2024)" },
-    { country: "mx", value: "Los Cabos (Mobicom 2019), Mexico City (FM+SE 2023)" },
-    { country: "ca", value: "Toronto (ACL 2023)" },
-    { country: "au", value: "Melbourne (ICSE 2023)" },
-    { country: "my", value: "Singapore (FSE 2022)" },
+    { country: "no", value: "- Trondheim (FSE 2025)" },
+    { country: "br", value: "- Porto de Galinhas (FSE 2024)" },
+    { country: "pt", value: "- Lisbon (ICSE 2024)" },
+    { country: "us", value: "- Pittsburgh (ICSE 2022), Honolulu (CHI 2024)" },
+    { country: "mx", value: "- Los Cabos (Mobicom 2019), Mexico City (FM+SE 2023)" },
+    { country: "ca", value: "- Toronto (ACL 2023), Ottawa (ICSE 2025)" },
+    { country: "au", value: "- Melbourne (ICSE 2023)" },
+    { country: "my", value: "- Singapore (FSE 2022)" },
 ];
 
 const Travel = () => (
@@ -56,6 +66,30 @@ const Travel = () => (
             />
         </WorldMapContainer>
         <LocationGrid>
+            <div>
+                <h4>FSE 2025 | June 2025 | Trondheim, Norway</h4>
+                <PhotoGrid>
+                    <img src={trondheim1Src} alt="" />
+                    <img src={trondheim2Src} alt="" />
+                    <img src={trondheim3Src} alt="" />
+                </PhotoGrid>
+            </div>
+            <div>
+                <h4>ICSE 2025 | April 2025 | Ottawa, Canada</h4>
+                <PhotoGrid>
+                    <img src={ottawa1Src} alt="" />
+                    <img src={ottawa2Src} alt="" />
+                    <img src={ottawa3Src} alt="" />
+                </PhotoGrid>
+            </div>
+            <div>
+                <h4>FSE 2024 | July 2024 | Porto de Galinhas, Brazil</h4>
+                <PhotoGrid>
+                    <img src={portoDeGalinhas1Src} alt="" />
+                    <img src={portoDeGalinhas2Src} alt="" />
+                    <img src={portoDeGalinhas3Src} alt="" />
+                </PhotoGrid>
+            </div>
             <div>
                 <h4>CHI 2024 | May 2024 | Honolulu, United States</h4>
                 <PhotoGrid>

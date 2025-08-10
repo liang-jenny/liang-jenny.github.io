@@ -1,5 +1,21 @@
 [
     {
+        "title": "Understanding Prompt Programming Tasks and Questions",
+        "authors": ["jtl", "cy", "as2", "tdb", "bam"],
+        "imageName": "prompt_programming_questions.png",
+        "year": 2025,
+        "description": "We develop a taxonomy of the questions asked and tasks done during prompt programming, and study which of these are addressed by existing research and commercial tools.",
+        "urls": [
+            {
+                "label": "paper",
+                "url": "https://arxiv.org/pdf/2507.17264"
+            }
+        ],
+        "tags": [
+            "artificial intelligence", "human-computer interaction"
+        ]
+    },
+    {
         "title": "TableTalk: Scaffolding Spreadsheet Development with a Language Agent",
         "authors": ["jtl", "ak", "yb", "sg3", "vl", "cp", "ar", "emh*", "gs*"],
         "imageName": "tabletalk.png",
