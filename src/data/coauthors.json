@@ -1,4 +1,20 @@
 {
+    "tb": {
+        "name": "Titus Barik",
+        "url": "https://www.barik.net/"
+    },
+    "jn": {
+        "name": "Jeffrey Nichols",
+        "url": "http://www.jeffreynichols.com/"
+    },
+    "es": {
+        "name": "Eldon Schoop",
+        "url": "https://eldon.io/"
+    },
+    "rc": {
+        "name": "Ruijia Cheng",
+        "url": "https://reginachangzhou.github.io/"
+    },
     "gs": {
         "name": "Gustavo Soares",
         "url": "https://gustavoasoares.github.io/"

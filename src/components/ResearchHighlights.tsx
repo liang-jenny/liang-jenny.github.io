@@ -17,7 +17,7 @@ const hciAiData: ResearchProjectData[] = publicationsData.filter(
 );
 const seAiData: ResearchProjectData[] = publicationsData.filter(
     (e: ResearchProjectData) => [
-        "Can GPT-4 Replicate Empirical Software Engineering Research?",
+        "TableTalk: Scaffolding Spreadsheet Development with a Language Agent",
     ].includes(e.title)
 );
 

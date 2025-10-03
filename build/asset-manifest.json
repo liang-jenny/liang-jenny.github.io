@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.05baa667.css",
-    "main.js": "/static/js/main.c3f20f34.js",
+    "main.js": "/static/js/main.49674c82.js",
     "static/js/453.0affb415.chunk.js": "/static/js/453.0affb415.chunk.js",
     "static/media/understanding_skills.png": "/static/media/understanding_skills.20a9835de8ea01a3eb5b.png",
     "static/media/nlpositionality.pdf": "/static/media/nlpositionality.13916f06200b43759e88.pdf",
     "static/media/understanding_developers.pdf": "/static/media/understanding_developers.79933e4d61356d230c2b.pdf",
     "static/media/understanding_developers.png": "/static/media/understanding_developers.986af04d57e5864b98c4.png",
     "static/media/cdmx3.png": "/static/media/cdmx3.134c13cc654f6909974c.png",
-    "static/media/cv.pdf": "/static/media/cv.d784557d4a493896c860.pdf",
+    "static/media/cv.pdf": "/static/media/cv.8c4344ddfe0f77399b98.pdf",
     "static/media/cdmx1.png": "/static/media/cdmx1.8e94273dd288650466da.png",
     "static/media/powerlifting1.png": "/static/media/powerlifting1.a84b4ed33ff31f6558ff.png",
     "static/media/pittsburgh1.png": "/static/media/pittsburgh1.fde984bfd7e531f823d2.png",
@@ -27,6 +27,7 @@
     "static/media/colte.png": "/static/media/colte.daede05777c1612bbdc4.png",
     "static/media/jenny.jpg": "/static/media/jenny.1453eda3c377802ad70c.jpg",
     "static/media/colte_demo.png": "/static/media/colte_demo.c67a286c807176f9b119.png",
+    "static/media/agentbuilder.png": "/static/media/agentbuilder.5701390ef54ce6466f7e.png",
     "static/media/singapore2.jpeg": "/static/media/singapore2.815481bc9e45ab2fbf7d.jpeg",
     "static/media/melbourne2.jpeg": "/static/media/melbourne2.0a4baed210d0afad8d47.jpeg",
     "static/media/counterspeakers.png": "/static/media/counterspeakers.acf85ada5f70737ce422.png",
@@ -67,11 +68,11 @@
     "static/media/comet.png": "/static/media/comet.153ad94de4cf5ecd733c.png",
     "index.html": "/index.html",
     "main.05baa667.css.map": "/static/css/main.05baa667.css.map",
-    "main.c3f20f34.js.map": "/static/js/main.c3f20f34.js.map",
+    "main.49674c82.js.map": "/static/js/main.49674c82.js.map",
     "453.0affb415.chunk.js.map": "/static/js/453.0affb415.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.05baa667.css",
-    "static/js/main.c3f20f34.js"
+    "static/js/main.49674c82.js"
   ]
 }
