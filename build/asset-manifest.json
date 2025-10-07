@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.05baa667.css",
-    "main.js": "/static/js/main.49674c82.js",
+    "main.js": "/static/js/main.39193a56.js",
     "static/js/453.0affb415.chunk.js": "/static/js/453.0affb415.chunk.js",
     "static/media/understanding_skills.png": "/static/media/understanding_skills.20a9835de8ea01a3eb5b.png",
     "static/media/nlpositionality.pdf": "/static/media/nlpositionality.13916f06200b43759e88.pdf",
@@ -68,11 +68,11 @@
     "static/media/comet.png": "/static/media/comet.153ad94de4cf5ecd733c.png",
     "index.html": "/index.html",
     "main.05baa667.css.map": "/static/css/main.05baa667.css.map",
-    "main.49674c82.js.map": "/static/js/main.49674c82.js.map",
+    "main.39193a56.js.map": "/static/js/main.39193a56.js.map",
     "453.0affb415.chunk.js.map": "/static/js/453.0affb415.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.05baa667.css",
-    "static/js/main.49674c82.js"
+    "static/js/main.39193a56.js"
   ]
 }

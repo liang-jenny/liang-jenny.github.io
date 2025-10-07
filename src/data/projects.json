@@ -5,6 +5,12 @@
         "imageName": "agentbuilder.png",
         "year": 2025,
         "description": "We explore the capabilities that prompt-based agent prototyping systems should support and developer needs of agent prototyping through the AgentBuilder design probe.",
+        "urls": [
+            {
+                "label": "paper",
+                "url": "https://arxiv.org/pdf/2510.04452"
+            }
+        ],
         "tags": [
             "artificial intelligence", "human-computer interaction"
         ]
