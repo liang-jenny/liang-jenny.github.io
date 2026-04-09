@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.05baa667.css",
-    "main.js": "/static/js/main.39193a56.js",
+    "main.js": "/static/js/main.a28b1438.js",
     "static/js/453.0affb415.chunk.js": "/static/js/453.0affb415.chunk.js",
     "static/media/understanding_skills.png": "/static/media/understanding_skills.20a9835de8ea01a3eb5b.png",
     "static/media/nlpositionality.pdf": "/static/media/nlpositionality.13916f06200b43759e88.pdf",
     "static/media/understanding_developers.pdf": "/static/media/understanding_developers.79933e4d61356d230c2b.pdf",
     "static/media/understanding_developers.png": "/static/media/understanding_developers.986af04d57e5864b98c4.png",
     "static/media/cdmx3.png": "/static/media/cdmx3.134c13cc654f6909974c.png",
-    "static/media/cv.pdf": "/static/media/cv.8c4344ddfe0f77399b98.pdf",
     "static/media/cdmx1.png": "/static/media/cdmx1.8e94273dd288650466da.png",
+    "static/media/cv.pdf": "/static/media/cv.6abe2412bca19f2291e1.pdf",
     "static/media/powerlifting1.png": "/static/media/powerlifting1.a84b4ed33ff31f6558ff.png",
     "static/media/pittsburgh1.png": "/static/media/pittsburgh1.fde984bfd7e531f823d2.png",
     "static/media/honolulu1.png": "/static/media/honolulu1.be7a3cb3911cf16178bd.png",
@@ -26,6 +26,7 @@
     "static/media/melbourne3.jpeg": "/static/media/melbourne3.9705c94258086a4fabdb.jpeg",
     "static/media/colte.png": "/static/media/colte.daede05777c1612bbdc4.png",
     "static/media/jenny.jpg": "/static/media/jenny.1453eda3c377802ad70c.jpg",
+    "static/media/editbench.png": "/static/media/editbench.09d06663042d1b5de9ff.png",
     "static/media/colte_demo.png": "/static/media/colte_demo.c67a286c807176f9b119.png",
     "static/media/agentbuilder.png": "/static/media/agentbuilder.5701390ef54ce6466f7e.png",
     "static/media/singapore2.jpeg": "/static/media/singapore2.815481bc9e45ab2fbf7d.jpeg",
@@ -36,6 +37,7 @@
     "static/media/prompt_programming_questions.png": "/static/media/prompt_programming_questions.c4b276ce938692a1b5dd.png",
     "static/media/strategy_authoring.png": "/static/media/strategy_authoring.a6e338148053f7433b65.png",
     "static/media/tabletalk.png": "/static/media/tabletalk.0c8adcb92c9dd3c4a2ce.png",
+    "static/media/agent_ux.png": "/static/media/agent_ux.24eb97cee33f5aae22cd.png",
     "static/media/toronto1.jpeg": "/static/media/toronto1.283bedc79adfecbdf627.jpeg",
     "static/media/visual_comet.png": "/static/media/visual_comet.b9d1400736263669851e.png",
     "static/media/singapore1.jpeg": "/static/media/singapore1.3646d0ff14914ff96594.jpeg",
@@ -46,6 +48,7 @@
     "static/media/lisbon1.jpeg": "/static/media/lisbon1.08dde09374523fc5e8ed.jpeg",
     "static/media/mining_oss_skills.png": "/static/media/mining_oss_skills.e75ba82d80689e9352d4.png",
     "static/media/ottawa3.jpeg": "/static/media/ottawa3.dbbe57d8c1646afafb8d.jpeg",
+    "static/media/code_edits.png": "/static/media/code_edits.5ddf43b04e3d32f77b60.png",
     "static/media/prompting_programming.png": "/static/media/prompting_programming.eadd7b6e4f649c5bd49a.png",
     "static/media/porto-de-galinhas1.jpeg": "/static/media/porto-de-galinhas1.ee5e209b92b0b7a7846f.jpeg",
     "static/media/porto-de-galinhas3.jpeg": "/static/media/porto-de-galinhas3.d0f57a1f4491943923fd.jpeg",
@@ -68,11 +71,11 @@
     "static/media/comet.png": "/static/media/comet.153ad94de4cf5ecd733c.png",
     "index.html": "/index.html",
     "main.05baa667.css.map": "/static/css/main.05baa667.css.map",
-    "main.39193a56.js.map": "/static/js/main.39193a56.js.map",
+    "main.a28b1438.js.map": "/static/js/main.a28b1438.js.map",
     "453.0affb415.chunk.js.map": "/static/js/453.0affb415.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.05baa667.css",
-    "static/js/main.39193a56.js"
+    "static/js/main.a28b1438.js"
   ]
 }

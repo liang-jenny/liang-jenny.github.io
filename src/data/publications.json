@@ -1,5 +1,42 @@
 [
     {
+        "title": "Mapping the Design Space of User Experience for UI Control Agents",
+        "authors": ["rc", "jtl", "es", "jn"],
+        "imageName": "agent_ux.png",
+        "venue": "ACM Conference on Intelligent User Interfaces (IUI)",
+        "year": 2026,
+        "description": "We develop a taxonomy on the design space of user experience for UI control agents (i.e., computer-use agents).",
+        "urls": [
+            {
+                "label": "paper",
+                "url": "https://arxiv.org/pdf/2602.07283"
+            }
+        ],
+        "tags": [
+            "artificial intelligence", "human-computer interaction"
+        ]
+    },
+    {
+        "title": "EDIT-Bench: Evaluating LLM Abilities to Perform Real-World Instructed Code Edits",
+        "authors": ["wc*", "vc*", "rs", "am", "jtl", "wc2", "ana", "is", "gn", "at2", "cd"],
+        "imageName": "editbench.png",
+        "venue": "International Conference on Learning Representations (ICLR)",
+        "year": 2026,
+        "description": "We develop a benchmark of 540 instructed code editing problems extracted from real-world developer editing tasks.",
+        "urls": [
+            {
+                "label": "paper",
+                "url": "https://arxiv.org/pdf/2511.04486"
+            }
+        ],
+        "tags": [
+            "artificial intelligence"
+        ],
+        "awards": [
+            "Oral Presentation"
+        ]
+    },
+    {
         "title": "TableTalk: Scaffolding Spreadsheet Development with a Language Agent",
         "authors": ["jtl", "ak", "yb", "sg3", "vl", "cp", "ar", "emh*", "gs*"],
         "imageName": "tabletalk.png",

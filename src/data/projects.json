@@ -1,4 +1,12 @@
-[
+[   
+    {
+        "title": "Learning from 53.6K Real-World Developer Edits of AI-Generated Code",
+        "authors": ["jtl*", "mb*", "wc", "at2", "ns", "vc"],
+        "year": 2026,
+        "imageName": "code_edits.png",
+        "description": "We collect a dataset of 53.6 real-world developer edits of AI-generated code. We analyze the data to reveal insights on developer behavior and use the data to train frontier models to predict code edits.",
+        "tags": ["artificial intelligence"]
+    },
     {
         "title": "AgentBuilder: Exploring Scaffolds for Prototyping User Experiences of Interface Agents",
         "authors": ["jtl", "tb", "jn", "es", "rc"],

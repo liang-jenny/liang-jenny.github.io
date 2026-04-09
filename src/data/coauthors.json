@@ -1,4 +1,50 @@
 {
+    "cd": {
+        "name": "Chris Donahue",
+        "url": "https://chrisdonahue.com/"
+    },
+    "gn": {
+        "name": "Graham Neubig",
+        "url": "https://www.phontron.com/"
+    },
+    "is": {
+        "name": "Ion Stoica",
+        "url": "https://people.eecs.berkeley.edu/~istoica/"
+    },
+    "ana": {
+        "name": "Anastasios N. Angelopoulos",
+        "url": "https://angelopoulos.ai/"
+    },
+    "wc2": {
+        "name": "Wei-Lin Chiang",
+        "url": "https://infwinston.github.io/"
+    },
+    "am": {
+        "name": "Aditya Mittal"
+    },
+    "rs": {
+        "name": "Ryan Shar",
+        "url": "https://rshar01.github.io/"
+    },
+    "mb": {
+        "name": "Mihika Bairathi"
+    },
+    "wc": {
+        "name": "Wayne Chi",
+        "url": "https://waynechi.com/"
+    },
+    "at2": {
+        "name": "Ameet Talwakar",
+        "url": "https://www.cs.cmu.edu/~atalwalk/"
+    },
+    "ns": {
+        "name": "Nishant Subramani",
+        "url": "https://nishantsubramani.github.io/"
+    },
+    "vc": {
+        "name": "Valerie Chen",
+        "url": "https://valeriechen.github.io/"
+    },
     "tb": {
         "name": "Titus Barik",
         "url": "https://www.barik.net/"

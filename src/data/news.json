@@ -1,14 +1,14 @@
 [
     {
+        "date": "May 2026",
+        "description": "I am presenting at the MIT Programming Languages Review Workshop for our work, \"Prompts Are Programs Too! Understanding How Developers Build Software Containing Prompts\"."
+    },
+    {
         "date": "Aug 2025",
         "description": "Our paper, \"TableTalk: Scaffolding Spreadsheet Development with a Language Agent\" was accepted to ACM TOCHI."
     },
     {
         "date": "Apr 2025",
         "description": "Our paper, \"Prompts Are Programs Too! Understanding How Developers Build Software Containing Prompts\" was accepted to ACM FSE 2025. See you in Trondheim, Norway! 🇳🇴"
-    },
-    {
-        "date": "Dec 2024",
-        "description": "Our paper on commonsense morality was accepted to Nature Machine Intelligence. 🤖"
     }
 ]

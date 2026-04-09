@@ -38,6 +38,7 @@ import trondheim2Src from "../img/travel/trondheim2.jpeg";
 import trondheim3Src from "../img/travel/trondheim3.jpeg";
 
 const data = [
+    { country: "es", value: "- Barcelona (CHI 2026)" },
     { country: "no", value: "- Trondheim (FSE 2025)" },
     { country: "br", value: "- Porto de Galinhas (FSE 2024)" },
     { country: "pt", value: "- Lisbon (ICSE 2024)" },

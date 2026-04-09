@@ -9,7 +9,7 @@ const HomeContent = () => (
     <React.Fragment>
         <div>
             <p>
-                I'm Jenny, a third year Ph.D. student at <a href="https://www.cmu.edu/" target="_blank" rel="noreferrer">
+                I'm Jenny, a fourth year Ph.D. student at <a href="https://www.cmu.edu/" target="_blank" rel="noreferrer">
                 Carnegie Mellon University</a> advised by <a href="http://www.cs.cmu.edu/~bam/" target="_blank" rel="noreferrer">Dr. Brad A. Myers</a>.
             </p>
             <p>

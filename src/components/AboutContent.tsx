@@ -13,8 +13,8 @@ const AboutContent = () => (
         <p>
             Jenny T. Liang is a Ph.D. student at Carnegie Mellon University and a NSF Graduate Research Fellow.
             {' '} She is broadly interested in studying how developers write code and building AI tools to support programming activities. 
-            {' '} Currently, she is studying methods to improve developers' interactions with code generation tools.
-            {' '} Her research has won distinguished paper awards at top-tier software engineering and natural language processing venues, such as ICSE and ACL.
+            {' '} Currently, she is studying methods to improve developers' interactions with code generation tools, as well as how developers are writing software powered by prompts.
+            {' '} Her research has been published at premier venues in software engineering, human-computer interaction, and machine learning venues, including ICSE, FSE, TOCHI, and ACL, and has won distinguished paper awards at ICSE and ACL.
         </p>
         <Divider />
         <h3>Academic Lineage </h3>
@@ -34,9 +34,9 @@ const AboutContent = () => (
         <h3>Powerlifting</h3>
         <p>
             In my spare time, I do powerlifting, which is a sport dedicated to lifting as much as possible in the 
-            {' '} squat, bench, and deadlift. I compete in the raw women's division in the 56kg weight class. I qualified for and competed in
-            {' '} the USAPL 2024 Collegiate Nationals in Atlanta, Georgia and <a href="https://www.openpowerlifting.org/u/jennyliang" target="_blank">placed 45th</a>.
-            {' '} My squat, bench, and deadlift are 242.5lbs (2.0x bodyweight), 112.5 lbs (0.95x bodyweight), and 297.5lbs (2.52x bodyweight) respectively.
+            {' '} squat, bench, and deadlift. In 2024, I <a href="https://www.openpowerlifting.org/u/jennyliang" target="_blank">competed</a> in the raw women's division in the 56kg weight class for
+            {' '} the USAPL Collegiate Nationals in Atlanta, Georgia.
+            {' '} My squat, bench, and deadlift personal records are 242.5lbs (2.0x bodyweight), 145 lbs (1.26x bodyweight), and 308 lbs (2.67x bodyweight) respectively.
         </p>
         <PhotoGrid>
             <img src={powerlifting1Src} alt="Asian girl doing a squat" />
