@@ -1,44 +1,4 @@
-[   
-    {
-        "title": "Learning from 53.6K Real-World Developer Edits of AI-Generated Code",
-        "authors": ["jtl*", "mb*", "wc", "at2", "ns", "vc"],
-        "year": 2026,
-        "imageName": "code_edits.png",
-        "description": "We collect a dataset of 53.6 real-world developer edits of AI-generated code. We analyze the data to reveal insights on developer behavior and use the data to train frontier models to predict code edits.",
-        "tags": ["artificial intelligence"]
-    },
-    {
-        "title": "AgentBuilder: Exploring Scaffolds for Prototyping User Experiences of Interface Agents",
-        "authors": ["jtl", "tb", "jn", "es", "rc"],
-        "imageName": "agentbuilder.png",
-        "year": 2025,
-        "description": "We explore the capabilities that prompt-based agent prototyping systems should support and developer needs of agent prototyping through the AgentBuilder design probe.",
-        "urls": [
-            {
-                "label": "paper",
-                "url": "https://arxiv.org/pdf/2510.04452"
-            }
-        ],
-        "tags": [
-            "artificial intelligence", "human-computer interaction"
-        ]
-    },
-    {
-        "title": "Understanding Prompt Programming Tasks and Questions",
-        "authors": ["jtl", "cy", "as2", "tdb", "bam"],
-        "imageName": "prompt_programming_questions.png",
-        "year": 2025,
-        "description": "We develop a taxonomy of the questions asked and tasks done during prompt programming, and study which of these are addressed by existing research and commercial tools.",
-        "urls": [
-            {
-                "label": "paper",
-                "url": "https://arxiv.org/pdf/2507.17264"
-            }
-        ],
-        "tags": [
-            "artificial intelligence", "human-computer interaction"
-        ]
-    }, 
+[    
     {
         "title": "Interpreting Hate Speech Classifiers: Does Dataset Label Space Matter?",
         "authors": ["jl", "xl", "lj", "ss3"],

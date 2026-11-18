@@ -1,5 +1,71 @@
 [
     {
+        "title": "Understanding Developer Information Needs for Software with Embedded Natural Language Prompts",
+        "authors": ["jtl", "cy", "as2", "tdb", "bam"],
+        "imageName": "prompt_programming_questions.png",
+        "venue": "ArXiv",
+        "year": 2026,
+        "description": "We develop a taxonomy of the questions asked and tasks done while developing embedded prompts, and study which of these are addressed by existing research and commercial tools.",
+        "urls": [
+            {
+                "label": "paper",
+                "url": "https://arxiv.org/pdf/2507.17264"
+            }
+        ],
+        "tags": [
+            "artificial intelligence", "human-computer interaction"
+        ]
+    },
+    {
+        "title": "How Do Developers Edit AI-Generated Code, and How Well Do LLMs Infer Their Edits? Insights from 53.6K Developer Edits",
+        "authors": ["jtl*", "mb*", "wc", "at2", "ns", "vc"],
+        "venue": "ArXiv",
+        "year": 2026,
+        "imageName": "code_edits.png",
+        "description": "We collect a dataset of 53.6 real-world developer edits of AI-generated code. We analyze the data to reveal insights on developer behavior and use the data to train frontier models to predict code edits.",
+        "tags": ["artificial intelligence", "software engineering", "human-computer interaction"],
+        "urls": [
+            {
+                "label": "paper",
+                "url": "https://arxiv.org/pdf/2607.25130"
+            }
+        ]
+    },
+    {
+        "title": "Navigating Complexity: How Context Shapes Debugging Strategy Choices Among Expert Developers",
+        "authors": ["ma", "jtl", "vh", "so", "tdl"],
+        "imageName": "web_debugging_strategies.png",
+        "venue": "IEEE Transactions on Software Engineering (TSE)",
+        "year": 2026,
+        "description": "We study how expert developers select debugging strategies based on contextual factors in web programming.",
+        "urls": [
+            {
+                "label": "paper",
+                "url": "https://ieeexplore.ieee.org/abstract/document/11674167"
+            }
+        ],
+        "tags": [
+            "software engineering", "human-computer interaction"
+        ]
+    },
+    {
+        "title": "Understanding User Experiences of Computer Use Agents: Design Space and Opportunities for Building Agent UX Prototypes",
+        "authors": ["jtl", "tb", "jn", "es", "rc"],
+        "imageName": "agentbuilder.png",
+        "venue": "ArXiv",
+        "year": 2026,
+        "description": "We explore the capabilities that prompt-based agent prototyping systems should support and developer needs of agent prototyping through the AgentBuilder design probe.",
+        "urls": [
+            {
+                "label": "paper",
+                "url": "https://arxiv.org/pdf/2510.04452"
+            }
+        ],
+        "tags": [
+            "artificial intelligence", "human-computer interaction"
+        ]
+    },
+    {
         "title": "Mapping the Design Space of User Experience for UI Control Agents",
         "authors": ["rc", "jtl", "es", "jn"],
         "imageName": "agent_ux.png",

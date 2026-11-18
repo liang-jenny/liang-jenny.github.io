@@ -22,7 +22,7 @@ const PapersContent = () => {
             <Filter filter={filter} setFilter={setFilter}/>
             {hasData(publicationsData) && (
                 <Section>
-                    <h2>Peer-Reviewed Publications</h2>
+                    <h2>Publications</h2>
                     {filteredPublications.length > 0 ? (                        
                         <React.Fragment>
                             {

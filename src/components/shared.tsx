@@ -56,7 +56,7 @@ export const Section = styled.div`
 
 export const PhotoGrid = styled.div`
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: repeat(3, 1fr);
     grid-gap: 8px;
 
     img {
@@ -72,4 +72,8 @@ export const PhotoGrid = styled.div`
             margin: auto;
         }
     }
+`
+
+export const CaptionedImageContainer = styled.div`
+    text-align: center;
 `

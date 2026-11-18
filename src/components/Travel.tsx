@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import WorldMap from "react-svg-worldmap";
-import { PhotoGrid } from './shared';
+import { PhotoGrid, CaptionedImageContainer } from './shared';
 
 import cabo1Src from "../img/travel/cabo1.jpeg";
 import cabo2Src from "../img/travel/cabo2.jpeg";
@@ -36,13 +36,23 @@ import ottawa3Src from "../img/travel/ottawa3.jpeg";
 import trondheim1Src from "../img/travel/trondheim1.jpeg";
 import trondheim2Src from "../img/travel/trondheim2.jpeg";
 import trondheim3Src from "../img/travel/trondheim3.jpeg";
+import boston1Src from "../img/travel/boston1.png";
+import boston2Src from "../img/travel/boston2.png";
+import boston3Src from "../img/travel/boston3.png";
+import barcelona1Src from "../img/travel/barcelona1.png";
+import barcelona2Src from "../img/travel/barcelona2.png";
+import barcelona3Src from "../img/travel/barcelona3.png";
+import paderborn1Src from "../img/travel/paderborn1.png";
+import paderborn2Src from "../img/travel/paderborn2.png";
+import paderborn3Src from "../img/travel/paderborn3.png";
 
 const data = [
     { country: "es", value: "- Barcelona (CHI 2026)" },
+    { country: "de", value: "- Paderborn (VL/HCC 2026)" },
     { country: "no", value: "- Trondheim (FSE 2025)" },
     { country: "br", value: "- Porto de Galinhas (FSE 2024)" },
     { country: "pt", value: "- Lisbon (ICSE 2024)" },
-    { country: "us", value: "- Pittsburgh (ICSE 2022), Honolulu (CHI 2024)" },
+    { country: "us", value: "- Pittsburgh (ICSE 2022), Honolulu (CHI 2024), Boston (MIT PLR 2026)" },
     { country: "mx", value: "- Los Cabos (Mobicom 2019), Mexico City (FM+SE 2023)" },
     { country: "ca", value: "- Toronto (ACL 2023), Ottawa (ICSE 2025)" },
     { country: "au", value: "- Melbourne (ICSE 2023)" },
@@ -68,27 +78,51 @@ const Travel = () => (
         </WorldMapContainer>
         <LocationGrid>
             <div>
+                <h4>VL/HCC 2026 | October 2026 | Paderborn, Germany</h4>
+                <PhotoGrid>
+                    <img src={paderborn1Src} alt="" />
+                    <img src={paderborn2Src} alt="" />
+                    <img src={paderborn3Src} alt="" />
+                </PhotoGrid>
+            </div>
+            <div>
+                <h4>MIT PLR 2026 | May 2026 | Boston, United States</h4>
+                <PhotoGrid>
+                    <img src={boston1Src} alt="" />
+                    <img src={boston2Src} alt="" />
+                    <img src={boston3Src} alt="" />
+                </PhotoGrid>
+            </div>
+            <div>
+                <h4>CHI 2026 | April 2026 | Barcelona, Spain</h4>
+                <PhotoGrid>
+                    <img src={barcelona1Src} alt="" />
+                    <img src={barcelona3Src} alt="" />
+                    <img src={barcelona2Src} alt="" />
+                </PhotoGrid>
+            </div>
+            <div>
                 <h4>FSE 2025 | June 2025 | Trondheim, Norway</h4>
                 <PhotoGrid>
-                    <img src={trondheim1Src} alt="" />
-                    <img src={trondheim2Src} alt="" />
-                    <img src={trondheim3Src} alt="" />
+                    <img src={trondheim1Src} alt="Rooftops of houses with a cloudy sky" />
+                    <img src={trondheim2Src} alt="A cannon sitting in a green field on a sunny day with a village in the back" />
+                    <img src={trondheim3Src} alt="Brightly colored buildings lining the river" />
                 </PhotoGrid>
             </div>
             <div>
                 <h4>ICSE 2025 | April 2025 | Ottawa, Canada</h4>
                 <PhotoGrid>
-                    <img src={ottawa1Src} alt="" />
-                    <img src={ottawa2Src} alt="" />
-                    <img src={ottawa3Src} alt="" />
+                    <img src={ottawa1Src} alt="A wintertime riverfront view with the Ottawa city skyline in the back" />
+                    <img src={ottawa2Src} alt="A large standing Ottawa sign in the middle of a city plaza" />
+                    <img src={ottawa3Src} alt="A large spider statue" />
                 </PhotoGrid>
             </div>
             <div>
                 <h4>FSE 2024 | July 2024 | Porto de Galinhas, Brazil</h4>
                 <PhotoGrid>
-                    <img src={portoDeGalinhas1Src} alt="" />
-                    <img src={portoDeGalinhas2Src} alt="" />
-                    <img src={portoDeGalinhas3Src} alt="" />
+                    <img src={portoDeGalinhas1Src} alt="A light blue catamaran with a yellow flag floating on shallow water over a reef" />
+                    <img src={portoDeGalinhas2Src} alt="A sunset at the beach with the golden sun just about to set" />
+                    <img src={portoDeGalinhas3Src} alt="A sunrise at the beach with clouds overhead" />
                 </PhotoGrid>
             </div>
             <div>
@@ -154,6 +188,20 @@ const Travel = () => (
                     <img src={cabo2Src} alt="Mexican storefronts with colorful papel picado strung between the buildings" />
                     <img src={cabo3Src} alt="Sunset at the beach in Los Cabos, Mexico" />
                 </PhotoGrid>
+                {/* <PhotoGrid>
+                    <CaptionedImageContainer>
+                        <img src={cabo1Src} alt="Sunrise at the beach in Los Cabos, Mexico" />
+                        <div><i>Another sunset view from the resort</i></div>
+                    </CaptionedImageContainer>
+                    <CaptionedImageContainer>
+                        <img src={cabo2Src} alt="Mexican storefronts with colorful papel picado strung between the buildings" />
+                        <div><i>Another sunset view from the resort</i></div>
+                    </CaptionedImageContainer>
+                    <CaptionedImageContainer>
+                        <img src={cabo3Src} alt="Sunset at the beach in Los Cabos, Mexico" />
+                        <div><i>Another sunset view from the resort</i></div>
+                    </CaptionedImageContainer>
+                </PhotoGrid> */}
             </div>
         </LocationGrid>
     </React.Fragment>

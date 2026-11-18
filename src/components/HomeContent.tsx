@@ -1,5 +1,5 @@
 import React from 'react';
-import { Divider } from 'antd';
+import { Divider, Popover, Typography } from 'antd';
 import News from './News';
 import ResearchHighlights from './ResearchHighlights';
 
@@ -9,7 +9,7 @@ const HomeContent = () => (
     <React.Fragment>
         <div>
             <p>
-                I'm Jenny, a fourth year Ph.D. student at <a href="https://www.cmu.edu/" target="_blank" rel="noreferrer">
+                I'm Jenny, a Ph.D. student at <a href="https://www.cmu.edu/" target="_blank" rel="noreferrer">
                 Carnegie Mellon University</a> advised by <a href="http://www.cs.cmu.edu/~bam/" target="_blank" rel="noreferrer">Dr. Brad A. Myers</a>.
             </p>
             <p>
@@ -30,7 +30,12 @@ const HomeContent = () => (
             </ol>
             <p>
                 Have any questions or just want to chat? I'm always happy to meet new people—just reach out! Don't forget to say hi to my dog, {' '}
-                <a href={meiSrc} target="_blank" rel="noreferrer">Mei 🐕</a>!
+                <Popover
+                    content={<img src={meiSrc} alt="Mei the dog" style={{ display: 'block', width: 240, maxWidth: '70vw', borderRadius: 6 }} />}
+                    trigger={['hover', 'click']}
+                >
+                    <Typography.Link>Mei 🐕</Typography.Link>
+                </Popover>!
             </p>
             {/* News section */}
         </div>

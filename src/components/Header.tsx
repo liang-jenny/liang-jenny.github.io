@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import type { MenuProps } from 'antd';
 import { Menu } from 'antd';
 
-import profilePicSrc from "../img/jenny.jpg";
+import profilePicSrc from "../img/jenny1.png";
 import cvSrc from "../data/cv.pdf";
 
 type MenuItem = Required<MenuProps>['items'][number];
@@ -28,7 +28,7 @@ const items: MenuItem[] = [
         label: (<Link to='/projects'>Projects</Link>),
         key: 'projects',
         // icon: <BulbOutlined />
-    },
+    }
 ];
 
 const Header = (props: { page: string }) => {
@@ -37,7 +37,7 @@ const Header = (props: { page: string }) => {
             <HeaderContainer>
                 <JennyPhoto src={profilePicSrc}/>
                 <JennyInfo>
-                    <h1>Jenny T. Liang (梁佳妮)</h1>
+                    <h1>Jenny T. Liang</h1>
                     <Pronouns><a href="https://www.mypronouns.org/she-her" target="_blank" rel="noreferrer">(she/her/hers)</a></Pronouns>
                     <p>
                         Ph.D. Student in Software Engineering<br/>
