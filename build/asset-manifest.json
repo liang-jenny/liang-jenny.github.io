@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.05baa667.css",
-    "main.js": "/static/js/main.1923fd0a.js",
+    "main.js": "/static/js/main.d800a52d.js",
     "static/js/453.0affb415.chunk.js": "/static/js/453.0affb415.chunk.js",
     "static/media/paderborn2.png": "/static/media/paderborn2.af402972c36171d7e3ac.png",
     "static/media/powerlifting1.png": "/static/media/powerlifting1.e46cf73af2ca07c6a5e2.png",
@@ -17,8 +17,8 @@
     "static/media/cdmx3.png": "/static/media/cdmx3.134c13cc654f6909974c.png",
     "static/media/boston2.png": "/static/media/boston2.561d603217a161fa16ac.png",
     "static/media/barcelona1.png": "/static/media/barcelona1.aa3cf4dd60244460a637.png",
+    "static/media/cv.pdf": "/static/media/cv.de0547f69adccce401e9.pdf",
     "static/media/cdmx1.png": "/static/media/cdmx1.8e94273dd288650466da.png",
-    "static/media/cv.pdf": "/static/media/cv.6abe2412bca19f2291e1.pdf",
     "static/media/pittsburgh1.png": "/static/media/pittsburgh1.fde984bfd7e531f823d2.png",
     "static/media/honolulu1.png": "/static/media/honolulu1.be7a3cb3911cf16178bd.png",
     "static/media/boston3.png": "/static/media/boston3.f7e7163c87cbc4ab64bb.png",
@@ -81,11 +81,11 @@
     "static/media/comet.png": "/static/media/comet.153ad94de4cf5ecd733c.png",
     "index.html": "/index.html",
     "main.05baa667.css.map": "/static/css/main.05baa667.css.map",
-    "main.1923fd0a.js.map": "/static/js/main.1923fd0a.js.map",
+    "main.d800a52d.js.map": "/static/js/main.d800a52d.js.map",
     "453.0affb415.chunk.js.map": "/static/js/453.0affb415.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.05baa667.css",
-    "static/js/main.1923fd0a.js"
+    "static/js/main.d800a52d.js"
   ]
 }
